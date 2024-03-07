@@ -13,9 +13,9 @@
                                 	<h2>Get a Quote</h2>
                                     <div class="separator centered"></div>
                                 </div>
-                                <div class="pull-left">
+                                <!-- <div class="pull-left">
                                 	<div class="text">Get a free quote for your industrial or engineering business solutions, We are here 24/7.</div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         
@@ -55,7 +55,7 @@
             </div> 
         </div> 
       </div> 
-      <a href="index.html" class="backhome">Back to Home <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+      <a href="/" class="backhome">Back to Home <span class="icon flaticon-arrow-pointing-to-right"></span></a>
     </div>
     <!-- End of #schedule-box -->
     

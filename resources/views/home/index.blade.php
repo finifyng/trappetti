@@ -9,7 +9,7 @@
                 <ul>
                 	
                     <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="/homeassets/images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical"  >
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/cng2.jpeg"> 
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/cngstation.jpeg"> 
                     
                     <div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -400,7 +400,7 @@
                         </div>
                         <div class="lower-content">
                             <h3>International Organization <br> for Standardization</h3>
-                            <div class="text"> How all this mistaken idea denouncing pleasure and praising pain was born & will complete account of the system.</div>
+                            <!-- <div class="text"> How all this mistaken idea denouncing pleasure and praising pain was born & will complete account of the system.</div> -->
                         </div>
                     </div>
                 </div>
@@ -415,7 +415,7 @@
                         </div>
                         <div class="lower-content">
                             <h3>National Small <br> Inustries Corporation</h3>
-                            <div class="text">Great explorer the truth master-builder human happiness one rejects, dislikes, seds avoids pleasure itselfpleasure.</div>
+                            <!-- <div class="text">Great explorer the truth master-builder human happiness one rejects, dislikes, seds avoids pleasure itselfpleasure.</div> -->
                         </div>
                     </div>
                 </div>
@@ -430,7 +430,7 @@
                         </div>
                         <div class="lower-content">
                             <h3>System Applications <br> & Products</h3>
-                            <div class="text">Pursues or desires to obtain pain of itself, it but because occasionaly circumstances procure him some great.</div>
+                            <!-- <div class="text">Pursues or desires to obtain pain of itself, it but because occasionaly circumstances procure him some great.</div> -->
                         </div>
                     </div>
                 </div>
@@ -573,10 +573,10 @@
     	<div class="auto-container">
         	<div class="row clearfix">
             	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Quality service for construction projects and Automative service.</h2>
+                	<h2>Have any questions relating to CNG?</h2>
                 </div>
                 <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="#">Make an Appointment <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+                	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
                 </div>
             </div>
         </div>

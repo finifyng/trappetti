@@ -23,7 +23,7 @@
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title">
-                        	<h2>Company Over View</h2>
+                        	<h2>Company OverView</h2>
                             <div class="separator centered"></div>
                         </div>
                         <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
@@ -332,7 +332,7 @@
     <!--End Achived Section-->
     
     <!--Team Section-->
-    <section class="team-section">
+    <!-- <section class="team-section">
     	<div class="auto-container">
         	<div class="sec-title centered">
             	<h2>Behind Our Success</h2>
@@ -340,7 +340,6 @@
             </div>
             <div class="row clearfix">
             	
-                <!--Team Block-->
                 <div class="team-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
@@ -360,7 +359,6 @@
                     </div>
                 </div>
                 
-                <!--Team Block-->
                 <div class="team-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
@@ -380,60 +378,20 @@
                     </div>
                 </div>
                 
-                <!--Team Block-->
-                <div class="team-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="/homeassets/images/resource/team-3.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">AK. <br> Van Nicholes</a></h3>
-                            <div class="designation">Team Leader</div>
-                            <div class="text">Complete account the work system, and expound that actual our all skills.</div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Team Block-->
-                <div class="team-block col-md-3 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image">
-                        	<img src="/homeassets/images/resource/team-4.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">Courtney <br> Ybarra</a></h3>
-                            <div class="designation">Project Manager</div>
-                            <div class="text">Courtney Ybarra has over 11 years of executive leadership experience.</div>
-                        </div>
-                    </div>
-                </div>
-                
             </div>
         </div>
-    </section>
+    </section> -->
     <!--End Team Section-->
     
-    <!--Call To Action Section-->
-    <section class="call-to-action-section" style="background-image:url(/homeassets/images/background/5.jpg)">
+   <!--Call To Action Section-->
+   <section class="call-to-action-section" style="background-image:url(/homeassets/images/background/5.jpg)">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Quality service for construction projects and Automative service.</h2>
+                	<h2>Have any questions relating to CNG?</h2>
                 </div>
                 <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="#">Make an Appointment <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+                	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
                 </div>
             </div>
         </div>
