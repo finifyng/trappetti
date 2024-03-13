@@ -28,7 +28,7 @@
                         </div>
                         <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
                         <div class="text">
-                        	<p>Vasco Gas Solutions is at the forefront of the green transportation revolution, helping organizations across various industries transition to cleaner and more sustainable fuel alternatives. By promoting the widespread adoption of CNG technology, we are driving significant reductions in greenhouse gas emissions and air pollution, while also offering substantial cost savings to our clients.</p>
+                        	<p>Vaco Gas Solutions is at the forefront of the green transportation revolution, helping organizations across various industries transition to cleaner and more sustainable fuel alternatives. By promoting the widespread adoption of CNG technology, we are driving significant reductions in greenhouse gas emissions and air pollution, while also offering substantial cost savings to our clients.</p>
                         </div>
                         <!-- <div class="signature"><img src="images/resource/signature.png" alt="" /></div> -->
                     </div>
@@ -215,16 +215,16 @@
                 <div class="title-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title light">
-                        	<h2>What We Achived</h2>
+                        	<h2>What We Achieved</h2>
                             <div class="separator"></div>
                         </div>
-                        <div class="title">Strength & growth comes only through continuous effort.</div>
+                        <!-- <div class="title">Strength & growth comes only through continuous effort.</div> -->
                         <ul class="achived-list">
                         	<li class="icon flaticon-engineer"></li>
-                            <li class="number">1635</li>
+                            <li class="number">15</li>
                             <li><a href="#">Engineers & Workers</a></li>
                         </ul>
-                        <div class="text">Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you sed a complete account of the system expound  know how to pursue pleasure .</div>
+                        <!-- <div class="text">Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you sed a complete account of the system expound  know how to pursue pleasure .</div> -->
                     </div>
                 </div>
                 <!--Graph Column-->
@@ -332,7 +332,7 @@
     <!--End Achived Section-->
     
     <!--Team Section-->
-    <!-- <section class="team-section">
+    <section class="team-section">
     	<div class="auto-container">
         	<div class="sec-title centered">
             	<h2>Behind Our Success</h2>
@@ -352,8 +352,8 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">Donald <br> T. Benjamin</a></h3>
-                            <div class="designation">CEO & Founder</div>
+                        	<h3><a href="#">Ezeike Chukwuma</a></h3>
+                            <div class="designation">Managing Director</div>
                             <div class="text">Donald T.Benjamin has over 5 years of executive leadership experience.</div>
                         </div>
                     </div>
@@ -371,8 +371,27 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">Nichel <br> M. Petercomb</a></h3>
-                            <div class="designation">President</div>
+                        	<h3><a href="#">Chinedu<br> </a></h3>
+                            <div class="designation">Executive Vice Chairman</div>
+                            <div class="text">Denouncing pleasure & pain was born and I will give you a complete account.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="team-block col-md-3 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<div class="image">
+                        	<img src="/homeassets/images/resource/team-2.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<ul class="social-icon-two">
+                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
+                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="lower-content">
+                        	<h3><a href="#">Aniche <br> </a></h3>
+                            <div class="designation">Executive Director</div>
                             <div class="text">Denouncing pleasure & pain was born and I will give you a complete account.</div>
                         </div>
                     </div>
@@ -380,7 +399,7 @@
                 
             </div>
         </div>
-    </section> -->
+    </section>
     <!--End Team Section-->
     
    <!--Call To Action Section-->

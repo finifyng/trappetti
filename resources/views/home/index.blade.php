@@ -322,7 +322,7 @@
                         	<li><strong>Our Vision</strong>Mission is to facilitate the widespread adoption of clean and efficient energy solutions, thereby contributing to a greener and more sustainable future for generations to come</li>
                             <li><strong>Our Mission</strong>To provide forward-thinking solutions that promote sustainable and effective energy utilization, benefiting all involved parties.</li>
                         </ul>
-                        <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a>
+                        <!-- <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a> -->
                     </div>
                 </div>
                 
@@ -332,11 +332,10 @@
     <!--End Career Section-->
     
     <!--Informations Section-->
-    <section class="informations-section" style="background-image:url(/homeassets/images/background/3.jpg)">
+    <!-- <section class="informations-section" style="background-image:url(/homeassets/images/background/3.jpg)">
     	<div class="auto-container">
         	<div class="row clearfix">
             
-            	<!--Info Block-->
                 <div class="info-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                         <div class="icon-box">
@@ -345,8 +344,6 @@
                         <h3><a href="#">1.Exploration</a></h3>
                     </div>
                 </div>
-                
-                <!--Info Block-->
                 <div class="info-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                         <div class="icon-box">
@@ -356,7 +353,6 @@
                     </div>
                 </div>
                 
-                <!--Info Block-->
                 <div class="info-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                         <div class="icon-box">
@@ -366,7 +362,6 @@
                     </div>
                 </div>
                 
-                <!--Info Block-->
                 <div class="info-block col-md-3 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                         <div class="icon-box">
@@ -378,7 +373,7 @@
                 
             </div>
         </div>
-    </section>
+    </section> -->
     <!--End Informations Section-->
     
     <!--Achivements Section-->
@@ -573,7 +568,7 @@
     	<div class="auto-container">
         	<div class="row clearfix">
             	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Have any questions relating to CNG?</h2>
+                	<h2>Have any questions </h2>
                 </div>
                 <div class="link-column col-md-3 col-sm-12 col-xs-12">
                 	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>

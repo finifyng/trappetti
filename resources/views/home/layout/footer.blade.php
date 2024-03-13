@@ -22,7 +22,7 @@
                         <!-- Quote Form / Style Two-->
                         <div class="quote-form style-two">
                             <!--Shipping Form-->
-                            <form method="post" action="contact.html">
+                            <form method="post" action="#">
                                 <div class="row clearfix">
                                 	<div class="form-group col-md-6 col-sm-6 col-xs-12">
                                         <input type="text" name="text" placeholder="Your Name" required>
@@ -33,18 +33,12 @@
                                     <div class="form-group col-md-6 col-sm-6 col-xs-12">
                                         <input type="text" name="text" placeholder="Phone" required>
                                     </div>
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <select class="custom-select-box">
-                                            <option>Select Needed Service</option>
-                                            <option>Services One</option>
-                                            <option>Services Two</option>
-                                        </select>
-                                    </div>
+                                    
                                     <div class="form-group col-md-12 col-sm-12 col-xs-12">
                                         <textarea placeholder="Your Message..."></textarea>
                                     </div>
                                     <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                                        <button class="theme-btn btn-style-one" type="submit" name="submit-form">Send Now <span class="icon flaticon-arrow-pointing-to-right"></span></button>
+                                        <!-- <button class="theme-btn btn-style-one" type="submit" name="submit-form">Send Now <span class="icon flaticon-arrow-pointing-to-right"></span></button> -->
                                     </div>
                                 </div>
                             </form>
@@ -125,9 +119,9 @@
                             	<h2>Our Materials</h2>
                             </div>
                             <ul class="list-style-two">
-                            	<li><span class="icon flaticon-doc"></span><a href="#">Company Investors</a>Year 2017-18</li>
-                                <li><span class="icon flaticon-doc"></span><a href="#">Industrial Training</a>For Constructors</li>
-                                <li><span class="icon flaticon-pdf"></span><a href="#">Company Growth</a>In Last 3 Years</li>
+                            	<li><span class="icon flaticon-pdf"></span><a href="#">Company Profile</a>Year 2024</li>
+                                <!-- <li><span class="icon flaticon-doc"></span><a href="#">Industrial Training</a>For Constructors</li>
+                                <li><span class="icon flaticon-pdf"></span><a href="#">Company Growth</a>In Last 3 Years</li> -->
                             </ul>
                         </div>
                     </div>
@@ -157,7 +151,7 @@
                     
                 </div>
                 
-                <div class="copyright">Copyright © 2012-2018 </br> Design by<a href="#"> FinifyTech.</a> All rights reserved.</div>
+                <div class="copyright">Copyright © 2024 </br> Design by<a href="#"> FinifyTech.</a> All rights reserved.</div>
                 
             </div>
         </div>
