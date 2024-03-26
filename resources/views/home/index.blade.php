@@ -388,18 +388,7 @@
             </div>
             <div class="three-item-carousel owl-carousel owl-theme">
             	
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-piston"></span>
-                            </div>
-                            <h3><a href="market-single.html">Safety</a></h3>
-                            <div class="text">Work place safety is our cardinal value  </div>
-                        </div>
-                        
-                    </div>
-                </div>
+                
                 
                 <div class="market-block-three">
                 	<div class="inner-box">
@@ -447,6 +436,18 @@
                             <div class="text">We conduct our business with the highest standards of honesty, transparency, and ethical conduct.</div>
                         </div>
                      
+                    </div>
+                </div>
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-piston"></span>
+                            </div>
+                            <h3><a href="market-single.html">Safety</a></h3>
+                            <div class="text">Work place safety is our cardinal value  </div>
+                        </div>
+                        
                     </div>
                 </div>
                 
