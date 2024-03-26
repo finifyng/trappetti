@@ -28,7 +28,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                     style="z-index: 7; white-space: nowrap;">
-                    	<h2>Powering Progress <br> Driving Sustainability </h2>
+                    	<h2>Powering Progress <br> through gas solutions  </h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -158,7 +158,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                     style="z-index: 7; white-space: nowrap;">
-                    	<h2>Your Partner in <br> CNG Solutions </h2>
+                    	<h2> Driving Sustainability<br> </h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -178,7 +178,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                     style="z-index: 7; white-space: nowrap;">
-                    	<div class="text">Our Company has consistently embraced innovation to <br> provide a superior level of excellence.</div>
+                    	<div class="text">Your Partner in  Gas CNG Solutions </div>
                     </div>
                     
                     <div class="tp-caption" 
@@ -208,6 +208,46 @@
         </div>
     </section>
     <!--End Main Slider-->
+
+      <!--Career Section-->
+      <section class="career-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	
+                <!--Video Column-->
+                <div class="video-column col-md-6 col-sm-12 col-xs-12">
+                	<div class="inner-column">
+                    	<div class="image">
+                        	<img src="/homeassets/images/cng3.jpg" alt="" />
+                            <a href="https://www.youtube.com/watch?v=VPA0WyVUEMc" class="lightbox-image play-btn">
+                                <span class="icon flaticon-play-button-3"></span>
+                                Play Video
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!--Content Column-->
+                <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                	<div class="inner-column">
+                    	<div class="sec-title">
+                        	<h2>About Us</h2>
+                            <div class="separator centered"></div>
+                        </div>
+                        <div class="text">Vaco Gas solution limited is a key player in the gas downstream sector of the Nigerian economy. Vaco gas is committed to providing solution and sustainability in the ever-increasing demand for energy in Nigeria through Compressed Natural Gas (CNG) production and distribution for industrial use and to Automobile Fueling Stations across South East and South-South of Nigeria. We are also committed to Automobile conversion innovation using our cutting-edge technology </div>
+                        <ul class="list-style-one">
+                        	<!-- <li><strong>Our Vision</strong>Mission is to facilitate the widespread adoption of clean and efficient energy solutions, thereby contributing to a greener and more sustainable future for generations to come</li> -->
+                            <li><strong>Our Mission</strong>To provide cleaner, efficient, sustainable and affordable energy solution to the Nigerian increasing energy demand. </li>
+                        </ul>
+                        <!-- <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a> -->
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!--End Career Section-->
+    
+
    	<!--Market Section-->
     <section class="market-section" style="background-image:url(/homeassets/images/background/2.jpg)">
     	<div class="auto-container">
@@ -217,7 +257,7 @@
                 <div class="title-column m-block col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title light">
-                        	<h2>Market Sectors</h2>
+                        	<h2>Products and Services:</h2>
                             <div class="separator"></div>
                         </div>
                         <div class="text">Our essence transcends the mere concept of energy, encompassing a vast array of attributes, capabilities, and complexities that define our existence.</div>
@@ -293,44 +333,7 @@
 
   
     
-    <!--Career Section-->
-    <section class="career-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Video Column-->
-                <div class="video-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="image">
-                        	<img src="/homeassets/images/cng3.jpg" alt="" />
-                            <a href="https://www.youtube.com/watch?v=VPA0WyVUEMc" class="lightbox-image play-btn">
-                                <span class="icon flaticon-play-button-3"></span>
-                                Play Video
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>About Us</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        <div class="text">With a commitment to innovation and environmental responsibility, we offer comprehensive CNG services tailored to meet the evolving needs of our clients.</div>
-                        <ul class="list-style-one">
-                        	<li><strong>Our Vision</strong>Mission is to facilitate the widespread adoption of clean and efficient energy solutions, thereby contributing to a greener and more sustainable future for generations to come</li>
-                            <li><strong>Our Mission</strong>To provide forward-thinking solutions that promote sustainable and effective energy utilization, benefiting all involved parties.</li>
-                        </ul>
-                        <!-- <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a> -->
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Career Section-->
-    
+  
     <!--Informations Section-->
     <!-- <section class="informations-section" style="background-image:url(/homeassets/images/background/3.jpg)">
     	<div class="auto-container">
@@ -375,6 +378,96 @@
         </div>
     </section> -->
     <!--End Informations Section-->
+
+      <!--Market Section Three-->
+      <section class="market-section-three">
+    	<div class="auto-container">
+        	<div class="sec-title centered">
+                <h2>Core Values</h2>
+                <div class="separator"></div>
+            </div>
+            <div class="three-item-carousel owl-carousel owl-theme">
+            	
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-piston"></span>
+                            </div>
+                            <h3><a href="market-single.html">Safety</a></h3>
+                            <div class="text">Work place safety is our cardinal value  </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-demolishing"></span>
+                            </div>
+                            <h3><a href="market-single.html">Sustainability </a></h3>
+                            <div class="text">We are dedicated to reducing carbon emissions and promoting environmental stewardship through the widespread adoption of CNG technology.</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-power"></span>
+                            </div>
+                            <h3><a href="market-single.html">Innovation</a></h3>
+                            <div class="text">We continuously strive to develop cutting-edge solutions that optimize efficiency and performance in the transportation industry.</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-piston"></span>
+                            </div>
+                            <h3><a href="market-single.html">Customer Focus</a></h3>
+                            <div class="text">We prioritize the needs of our clients and are committed to delivering exceptional service and support.</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-demolishing"></span>
+                            </div>
+                            <h3><a href="market-single.html">Integrity</a></h3>
+                            <div class="text">We conduct our business with the highest standards of honesty, transparency, and ethical conduct.</div>
+                        </div>
+                     
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-power"></span>
+                            </div>
+                            <h3><a href="market-single.html">Collaboration</a></h3>
+                            <div class="text">We believe in the power of partnership and actively collaborate with stakeholders to drive positive change in the industry.</div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!--End Market Section Three-->
+    
     
     <!--Achivements Section-->
     <section class="achivements-section" style="background-image:url(/homeassets/images/background/4.jpg)">

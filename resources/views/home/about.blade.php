@@ -28,7 +28,10 @@
                         </div>
                         <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
                         <div class="text">
-                        	<p>Vaco Gas Solutions is at the forefront of the green transportation revolution, helping organizations across various industries transition to cleaner and more sustainable fuel alternatives. By promoting the widespread adoption of CNG technology, we are driving significant reductions in greenhouse gas emissions and air pollution, while also offering substantial cost savings to our clients.</p>
+                        	<p>Vaco gas is committed to providing solution and sustainability in the ever-increasing demand for energy in Nigeria through Compressed Natural Gas (CNG) production and distribution for industrial use and to Automobile Fueling Stations across South East and South-South of Nigeria. We are also committed to Automobile conversion innovation using our cutting-edge technology 
+<br>
+                            Vacogas is a leading provider of Compressed Natural Gas (CNG) solutions dedicated to promoting sustainability in the transportation sector. With a commitment to innovation and environmental responsibility, we offer comprehensive CNG services tailored to meet the evolving needs of our clients.
+                            </p>
                         </div>
                         <!-- <div class="signature"><img src="images/resource/signature.png" alt="" /></div> -->
                     </div>
@@ -111,7 +114,7 @@
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title">
-                        	<h2>Our Highlights</h2>
+                        	<h2>Core Values:</h2>
                             <div class="separator centered"></div>
                         </div>
                         
@@ -123,7 +126,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-target"></span>
                                     </div>
-                                    <h3>Mission</h3>
+                                    <h3>Safety</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -134,7 +137,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-graph"></span>
                                     </div>
-                                    <h3>Vision</h3>
+                                    <h3>Sustainability</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -145,7 +148,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-quality"></span>
                                     </div>
-                                    <h3>Core Values</h3>
+                                    <h3>Innovation</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -156,7 +159,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-idea"></span>
                                     </div>
-                                    <h3>Strategy</h3>
+                                    <h3>Integrity</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -167,7 +170,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-loupe"></span>
                                     </div>
-                                    <h3>Research</h3>
+                                    <h3>Customer Focus</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -178,7 +181,7 @@
                                 	<div class="icon-box">
                                     	<span class="icon flaticon-people-1"></span>
                                     </div>
-                                    <h3>Leadership</h3>
+                                    <h3>Collaboration</h3>
                                     <a href="#" class="overlay-link"></a>
                                 </div>
                             </div>
@@ -195,8 +198,8 @@
                             <div class="icon flaticon-target"></div>
                             <h2>Our Mission</h2>
                         </div>
-                        <div class="text">We work systematically to integrate corporate responsibility in our core business and make our expertise available for the benefit of the to take a trivial example, which of us ever undertakes laborious physical exercise,societies...</div>
-                        <a href="market-sectors.html" class="services">Our Services <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+                        <div class="text">To provide cleaner, efficient, sustainable and affordable energy solution to the Nigerian increasing energy demand. </div>
+                        <!-- <a href="#" class="services">Our Services <span class="icon flaticon-arrow-pointing-to-right"></span></a> -->
                     </div>
                 </div>
                 
@@ -224,7 +227,7 @@
                             <li class="number">15</li>
                             <li><a href="#">Engineers & Workers</a></li>
                         </ul>
-                        <!-- <div class="text">Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you sed a complete account of the system expound  know how to pursue pleasure .</div> -->
+                        <div class="text"><b>Industry Impact:</b> Vasco Gas Solutions is at the forefront of the green transportation revolution, helping organizations across various industries transition to cleaner and more sustainable fuel alternatives. By promoting the widespread adoption of CNG technology, we are driving significant reductions in greenhouse gas emissions and air pollution, while also offering substantial cost savings to our clients.</div>
                     </div>
                 </div>
                 <!--Graph Column-->
@@ -340,10 +343,10 @@
             </div>
             <div class="row clearfix">
             	
-                <div class="team-block col-md-3 col-sm-6 col-xs-12">
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/resource/team-1.jpg" alt="" />
+                        	<img src="/homeassets/images/chukwuma.png" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -359,10 +362,10 @@
                     </div>
                 </div>
                 
-                <div class="team-block col-md-3 col-sm-6 col-xs-12">
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/resource/team-2.jpg" alt="" />
+                        	<img src="/homeassets/images/chinedu.jpeg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -371,17 +374,29 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">Chinedu<br> </a></h3>
-                            <div class="designation">Executive Vice Chairman</div>
-                            <div class="text">Denouncing pleasure & pain was born and I will give you a complete account.</div>
+                        	<h3><a href="#">ELDER CHINEDU OKORONKWO<br> </a></h3>
+                            <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
+                            <div class="text">Born in Igwuruta in Ikwerre Local Government Area of Rivers State,  South-South  Nigeria, on October 10 , 1964 , he attended Central State School , Igwuruta for his primary education and Western Ahoada County ,for his secondary school , educational orientation. 
+<br>
+He is the Executive Vice Chairman for VACO GAS SOLUTIONS LIMITED.
+<br>
+Before joining Vaco Gas, Elder Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
+<br>
+An urbane man of all seasons, Elder Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
+<br>
+He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
+<br>
+ Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Elder Chinedu Okoronkwo,  had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the inrroduction of the Clompressed Natural Gas { CNG } , three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
+ <br>
+His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a  xriteria that led THIS DAY newspapers  in December  2022 to  list and adjude Elder Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
                         </div>
                     </div>
                 </div>
 
-                <div class="team-block col-md-3 col-sm-6 col-xs-12">
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/resource/team-2.jpg" alt="" />
+                        	<img src="/homeassets/images/aniche.jpeg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -390,9 +405,17 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">Aniche <br> </a></h3>
+                        	<h3><a href="#">ALICHE CHIJIOKE OTI Fcai <br> </a></h3>
                             <div class="designation">Executive Director</div>
-                            <div class="text">Denouncing pleasure & pain was born and I will give you a complete account.</div>
+                            <div class="text">Aliche Chijioke Oti holds a BSc in Political Science and Public Administration from University of Uyo, Uyo, Akwa Ibom State.
+He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
+<br>
+Aliche is the Executive Director for VACO GAS SOLUTIONS LIMITED. Prior to joining Vaco Gas, Aliche served as the Managing Director for Auto Gas Limited, a Petroleum and Gas Marketing Company providing marketing and distribution services to individuals and Corporates across Nigeria.
+<br>
+Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
+ <br>
+Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
+He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
                         </div>
                     </div>
                 </div>
