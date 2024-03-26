@@ -438,18 +438,7 @@
                      
                     </div>
                 </div>
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="icon-box">
-                            	<span class="icon flaticon-piston"></span>
-                            </div>
-                            <h3><a href="market-single.html">Safety</a></h3>
-                            <div class="text">Work place safety is our cardinal value  </div>
-                        </div>
-                        
-                    </div>
-                </div>
+                
                 
                 <div class="market-block-three">
                 	<div class="inner-box">
@@ -459,6 +448,19 @@
                             </div>
                             <h3><a href="market-single.html">Collaboration</a></h3>
                             <div class="text">We believe in the power of partnership and actively collaborate with stakeholders to drive positive change in the industry.</div>
+                        </div>
+                        
+                    </div>
+                </div>
+
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-piston"></span>
+                            </div>
+                            <h3><a href="market-single.html">Safety</a></h3>
+                            <div class="text">Work place safety is our cardinal value  </div>
                         </div>
                         
                     </div>
