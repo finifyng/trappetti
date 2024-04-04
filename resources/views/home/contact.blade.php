@@ -57,7 +57,7 @@
                             	<ul class="list-style-three">
                                 	<li><span class="icon flaticon-technology-2"></span><strong>Call Us: </strong>+321 4567 89 012</li>
                                     <li><span class="icon flaticon-envelope-1"></span><strong>Mail Us: </strong>info@vacogas.com</li>
-                                    <li><span class="icon flaticon-time-1"></span><strong>Office Hrs: </strong>Monday - Satday: 9.00am to 5.00pm</li>
+                                    <li><span class="icon flaticon-time-1"></span><strong>Office Hrs: </strong>Monday - Saturday: 9.00am to 5.00pm</li>
                                 </ul>
                             </div>
                             <!-- <div class="lower-box">

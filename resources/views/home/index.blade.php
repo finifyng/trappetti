@@ -766,7 +766,7 @@
                 	<h2>Have any questions </h2>
                 </div>
                 <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
+                	<a class="apointment" href="/contact">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
                 </div>
             </div>
         </div>
