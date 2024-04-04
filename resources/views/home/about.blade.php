@@ -346,7 +346,7 @@
                 <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/chukwuma.png" alt="" />
+                        	<img src="/homeassets/images/chukwuma.jpg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
