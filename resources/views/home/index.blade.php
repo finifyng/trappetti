@@ -404,6 +404,19 @@
         </div>
     </section>
     <!--End Market Section-->
+    <section class="cng-advantage">
+        <div class="container">
+            <div class="sec-title centered">
+                <h2>PROPOSED CNG SCHEME</h2>
+                <div class="separator"></div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <img src="/homeassets/images/cngscheme.png" width="100%" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
     
 
   
