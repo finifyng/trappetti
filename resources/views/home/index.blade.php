@@ -417,6 +417,74 @@
             </div>
         </div>
     </section>
+
+    <!--Market Section Four-->
+    <section class="market-section-four">
+    	<div class="auto-container">
+        	<!--Sec Title-->
+            <div class="sec-title centered">
+            	<h2>Why VacoGas</h2>
+                <div class="separator"></div>
+            </div>
+            
+            <div class="row clearfix">
+            	
+                <!--Market Block-->
+                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<div class="image">
+                        	<a href="market-single.html"><img src="/homeassets/images/safety.jpeg" alt="" /></a>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-piston"></span>
+                            </div>
+                        	<h3><a href="market-single.html">Quality and Safety</a></h3>
+                            <div class="text">IN HOUSE GLOBAL ENGINEERING & DESIGN TEAM</div>
+                                      </div>
+                    </div>
+                </div>
+                
+                <!--Market Block-->
+                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<div class="image">
+                        	<a href="market-single.html"><img src="/homeassets/images/reliable.jpeg" alt="" /></a>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-demolishing"></span>
+                            </div>
+                        	<h3><a href="market-single.html">Reliability</a></h3>
+                            <div class="text">24 X 7 CNG SUPPLY ,MULTIPLE COMPRESSION STATIONS ACROSS NIGERIA </div>
+                          
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Market Block-->
+                <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<div class="image">
+                        	<a href="market-single.html"><img src="/homeassets/images/energysaving.jpeg" alt="" /></a>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-power"></span>
+                            </div>
+                        	<h3><a href="market-single.html">Energy <br> Savings</a></h3>
+                            <div class="text">CNG ~ 30% CHEAPER THAN DIESEL</div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+            
+          
+        </div>
+    </section>
+    <!--End Market Section Four-->
     
 
   

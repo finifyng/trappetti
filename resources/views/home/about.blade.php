@@ -333,6 +333,35 @@
         </div>
     </section>
     <!--End Achived Section-->
+      <!--Career Section-->
+      <section class="career-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	
+                <!--Content Column-->
+                <div class="content-column col-md-12 col-sm-12 col-xs-12">
+                	<div class="inner-column">
+                    	<div class="sec-title">
+                        	<h2>The CNG Advantage <br> as a Transport Fuel.</h2>
+                            <div class="separator centered"></div>
+                        </div>
+                        
+                        <ul class="list-style-one">
+                        	<li><strong>Reduction of the crude oil price shocks on domestic fuel price</strong></li>
+                        	<li><strong>FuelDiversification for Transport to protect against external shocks</strong></li>
+                        	<li><strong>Job creation from new infrastructure and services</strong></li>
+                        	<li><strong>Cost-Effective solution for mass and goods transit operations</strong></li>
+                        	<li><strong>Clean and environmentally</strong></li>
+                        	<li><strong>Foreign Exchange Savings and more funds for development</strong></li>
+                        </ul>
+                        <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!--End Career Section-->
     
     <!--Team Section-->
     <section class="team-section">
@@ -377,18 +406,18 @@
                         	<h3><a href="#">ELDER CHINEDU OKORONKWO<br> </a></h3>
                             <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
                             <div class="text">Born in Igwuruta in Ikwerre Local Government Area of Rivers State,  South-South  Nigeria, on October 10 , 1964 , he attended Central State School , Igwuruta for his primary education and Western Ahoada County ,for his secondary school , educational orientation. 
-<br>
-He is the Executive Vice Chairman for VACO GAS SOLUTIONS LIMITED.
-<br>
-Before joining Vaco Gas, Elder Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
-<br>
-An urbane man of all seasons, Elder Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
-<br>
-He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
-<br>
- Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Elder Chinedu Okoronkwo,  had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the inrroduction of the Clompressed Natural Gas { CNG } , three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
- <br>
-His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a  xriteria that led THIS DAY newspapers  in December  2022 to  list and adjude Elder Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
+                            <br>
+                            He is the Executive Vice Chairman for VACO GAS SOLUTIONS LIMITED.
+                            <br>
+                            Before joining Vaco Gas, Elder Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
+                            <br>
+                            An urbane man of all seasons, Elder Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
+                            <br>
+                            He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
+                            <br>
+                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Elder Chinedu Okoronkwo,  had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the inrroduction of the Clompressed Natural Gas { CNG } , three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
+                            <br>
+                            His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a  xriteria that led THIS DAY newspapers  in December  2022 to  list and adjude Elder Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
                         </div>
                     </div>
                 </div>
@@ -408,14 +437,14 @@ His sound knowledge-base, experience  , competences and global contacts on the C
                         	<h3><a href="#">ALICHE CHIJIOKE OTI Fcai <br> </a></h3>
                             <div class="designation">Executive Director</div>
                             <div class="text">Aliche Chijioke Oti holds a BSc in Political Science and Public Administration from University of Uyo, Uyo, Akwa Ibom State.
-He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
-<br>
-Aliche is the Executive Director for VACO GAS SOLUTIONS LIMITED. Prior to joining Vaco Gas, Aliche served as the Managing Director for Auto Gas Limited, a Petroleum and Gas Marketing Company providing marketing and distribution services to individuals and Corporates across Nigeria.
-<br>
-Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
- <br>
-Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
-He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
+                            He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
+                            <br>
+                            Aliche is the Executive Director for VACO GAS SOLUTIONS LIMITED. Prior to joining Vaco Gas, Aliche served as the Managing Director for Auto Gas Limited, a Petroleum and Gas Marketing Company providing marketing and distribution services to individuals and Corporates across Nigeria.
+                            <br>
+                            Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
+                            <br>
+                            Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
+                            He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
                         </div>
                     </div>
                 </div>
