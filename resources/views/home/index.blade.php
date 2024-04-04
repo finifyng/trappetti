@@ -628,64 +628,7 @@
     <!--End Market Section Three-->
     
     
-    <!--Achivements Section-->
-    <section class="achivements-section" style="background-image:url(/homeassets/images/background/4.jpg)">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-                <h2>Our Aspirations</h2>
-                <div class="separator"></div>
-            </div>
-            <div class="row clearfix">
-            	
-                <!--Achivements Block-->
-                <div class="achivements-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="image">
-                        		<img src="/homeassets/images/clients/1.png" alt="" />
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                            <h3>International Organization <br> for Standardization</h3>
-                            <!-- <div class="text"> How all this mistaken idea denouncing pleasure and praising pain was born & will complete account of the system.</div> -->
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Achivements Block-->
-                <div class="achivements-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="image">
-                        		<img src="/homeassets/images/clients/2.png" alt="" />
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                            <h3>National Small <br> Inustries Corporation</h3>
-                            <!-- <div class="text">Great explorer the truth master-builder human happiness one rejects, dislikes, seds avoids pleasure itselfpleasure.</div> -->
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Achivements Block-->
-                <div class="achivements-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                        	<div class="image">
-                        		<img src="/homeassets/images/clients/3.png" alt="" />
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                            <h3>System Applications <br> & Products</h3>
-                            <!-- <div class="text">Pursues or desires to obtain pain of itself, it but because occasionaly circumstances procure him some great.</div> -->
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Achivements Section-->
+    
     
     <!--Testimonial Section-->
     <!-- <section class="testimonial-section">
