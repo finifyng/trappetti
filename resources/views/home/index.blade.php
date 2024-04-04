@@ -433,13 +433,13 @@
                 <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<a href="market-single.html"><img src="/homeassets/images/safety.jpeg" alt="" /></a>
+                        	<a href="#"><img src="/homeassets/images/safety.jpeg" alt="" /></a>
                         </div>
                         <div class="lower-content">
                         	<div class="icon-box">
                             	<span class="icon flaticon-piston"></span>
                             </div>
-                        	<h3><a href="market-single.html">Quality and Safety</a></h3>
+                        	<h3><a href="#">Quality and Safety</a></h3>
                             <div class="text">IN HOUSE GLOBAL ENGINEERING & DESIGN TEAM</div>
                                       </div>
                     </div>
@@ -449,13 +449,13 @@
                 <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<a href="market-single.html"><img src="/homeassets/images/reliable.jpeg" alt="" /></a>
+                        	<a href="#"><img src="/homeassets/images/reliable.jpeg" alt="" /></a>
                         </div>
                         <div class="lower-content">
                         	<div class="icon-box">
                             	<span class="icon flaticon-demolishing"></span>
                             </div>
-                        	<h3><a href="market-single.html">Reliability</a></h3>
+                        	<h3><a href="#">Reliability</a></h3>
                             <div class="text">24 X 7 CNG SUPPLY ,MULTIPLE COMPRESSION STATIONS ACROSS NIGERIA </div>
                           
                         </div>
@@ -466,13 +466,13 @@
                 <div class="market-block-four col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<a href="market-single.html"><img src="/homeassets/images/energysaving.jpeg" alt="" /></a>
+                        	<a href="#"><img src="/homeassets/images/energysaving.jpeg" alt="" /></a>
                         </div>
                         <div class="lower-content">
                         	<div class="icon-box">
                             	<span class="icon flaticon-power"></span>
                             </div>
-                        	<h3><a href="market-single.html">Energy <br> Savings</a></h3>
+                        	<h3><a href="#">Energy <br> Savings</a></h3>
                             <div class="text">CNG ~ 30% CHEAPER THAN DIESEL</div>
                         </div>
                     </div>
