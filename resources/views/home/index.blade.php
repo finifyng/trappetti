@@ -9,7 +9,7 @@
                 <ul>
                 	
                     <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="/homeassets/images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical"  >
-                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/cngstation.jpeg"> 
+                    <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="/homeassets/images/motherstation.jpeg"> 
                     
                     <div class="tp-caption" 
                     data-paddingbottom="[0,0,0,0]"
@@ -218,7 +218,7 @@
                 <div class="video-column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="image">
-                        	<img src="/homeassets/images/cng3.jpg" alt="" />
+                        	<img src="/homeassets/images/cngcar.webp" alt="" />
                             <a href="https://www.youtube.com/watch?v=VPA0WyVUEMc" class="lightbox-image play-btn">
                                 <span class="icon flaticon-play-button-3"></span>
                                 Play Video
@@ -246,6 +246,81 @@
         </div>
     </section>
     <!--End Career Section-->
+
+    <!--Market Section Three-->
+    <section class="market-section-three">
+    	<div class="auto-container">
+        	<div class="sec-title centered">
+                <h2>Our Offerings</h2>
+                <div class="separator"></div>
+            </div>
+            <div class="three-item-carousel owl-carousel owl-theme">
+            	
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                            <h3><a href="#">Technical <br> Study </a></h3>
+                            
+                        </div>
+                        <div class="lower-box" style="height:150px!important">
+                        	<a href="#"><img src="/homeassets/images/technical.webp" height="50" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                            <h3><a href="#">CNG delivery to <br> customer site </a></h3>
+                           
+                        </div>
+                        <div class="lower-box" style="height:150px!important">
+                        	<a href="#"><img src="/homeassets/images/cngdelivery.webp" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                            <h3><a href="market-single.html">CNG decompressed <br> into natural gas</a></h3>
+                            
+                        </div>
+                        <div class="lower-box" style="height:150px!important">
+                        	<a href="#"><img src="/homeassets/images/offering3.webp" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                            <h3><a href="market-single.html">Back-Up Storage <br> on Site</a></h3>
+                           
+                        </div>
+                        <div class="lower-box" style="height:150px!important">
+                        	<a href="market-single.html"><img src="/homeassets/images/storage.jpeg" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="market-block-three">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                            <h3><a href="market-single.html">Natural gas used for <br> power and industrial process</a></h3>
+                          
+                        </div>
+                        <div class="lower-box">
+                        	<a href="market-single.html"><img src="/homeassets/images/offering1.jpeg"  alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    <!--End Market Section Three-->
     
 
    	<!--Market Section-->
@@ -260,7 +335,7 @@
                         	<h2>Products and Services:</h2>
                             <div class="separator"></div>
                         </div>
-                        <div class="text">Our essence transcends the mere concept of energy, encompassing a vast array of attributes, capabilities, and complexities that define our existence.</div>
+                       
                         <a href="#" class="view_all"><span class="icon flaticon-right-arrow-1"></span> View All Sectors</a>
                     </div>
                 </div>

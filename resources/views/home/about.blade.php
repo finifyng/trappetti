@@ -357,7 +357,7 @@
                         <div class="lower-content">
                         	<h3><a href="#">Ezeike Chukwuma</a></h3>
                             <div class="designation">Managing Director</div>
-                            <div class="text">Donald T.Benjamin has over 5 years of executive leadership experience.</div>
+                            <div class="text">..</div>
                         </div>
                     </div>
                 </div>
