@@ -129,25 +129,7 @@
         </div>
         <div class="footer-bottom">
         	<div class="auto-container">
-                <div class="row clearfix">
-                    
-                    <!--Title Column-->
-                    <div class="title-column col-md-5 col-sm-12 col-xs-12">
-                        <div class="text"><span class="icon flaticon-rss-updates-subscription"></span> Keep up to date, Get latest updates, news and special offers in your inbox...</div>
-                    </div>
-                    <!--Subscribe Column-->
-                    <div class="subscribe-column col-md-7 col-sm-12 col-xs-12">
-                        <div class="subscribe-form">
-                            <form method="post" action="contact.html">
-                                <div class="form-group">
-                                    <input type="email" name="email" value="" placeholder="Your E-mail Address..." required="">
-                                    <button type="submit" class="theme-btn">Subscribe Us <span class="flaticon-right-arrow-1"></span></button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                    
-                </div>
+        
                 
                 <div class="copyright">Copyright © 2024 </br> Design by<a href="#"> FinifyTech.</a> All rights reserved.</div>
                 
