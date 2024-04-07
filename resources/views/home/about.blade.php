@@ -257,7 +257,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
             </div>
             <div class="row clearfix">
             	
-                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
                         	<img src="/homeassets/images/chukwuma.jpg" alt="" />
@@ -272,13 +272,13 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                         	<h3><a href="#">Ezeike Chukwuma</a></h3>
                             <div class="designation">Managing Director</div>
                             <div class="text">Chukwuma is a seasoned oil and gas professional with over 28 years cognate experience in the upstream midstream and downstream sectors.
-Following a brief stint with Guinness Nigeria, Chukwuma joined the Royal Dutch Shell Group as a Production Facilities Engineer involved with design construction and lifecycle management of strategic oil and gas production assets. He joined the Oando Group in 2009 as Head Quality Assurance where he oversaw the implementation of robust quality management systems for the upstream and midstream subsidiaries. Chukwuma was later appointed Head Engineering and Operations for the Axella group where he led the development of over 400 megawatts of captive power generation and expanded the largest domestic gas distribution network in sub-Saharan Africa including the development of a 150000scmd CNG mother station.
-A powerful communicator, change driver and people manager, Chukwuma has played key leadership roles in strategic projects in Nigeria, US and the Middle East including sitting as a member of the policy think-tank for the Nigerian Gas Network Code. Chukwuma has an MBA from Imperial College Business School London.</div>
+                            Following a brief stint with Guinness Nigeria, Chukwuma joined the Royal Dutch Shell Group as a Production Facilities Engineer involved with design construction and lifecycle management of strategic oil and gas production assets. He joined the Oando Group in 2009 as Head Quality Assurance where he oversaw the implementation of robust quality management systems for the upstream and midstream subsidiaries. Chukwuma was later appointed Head Engineering and Operations for the Axella group where he led the development of over 400 megawatts of captive power generation and expanded the largest domestic gas distribution network in sub-Saharan Africa including the development of a 150000scmd CNG mother station.
+                            A powerful communicator, change driver and people manager, Chukwuma has played key leadership roles in strategic projects in Nigeria, US and the Middle East including sitting as a member of the policy think-tank for the Nigerian Gas Network Code. Chukwuma has an MBA from Imperial College Business School London.</div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
                         	<img src="/homeassets/images/chinedu1.jpeg" alt="" />
@@ -306,7 +306,7 @@ A powerful communicator, change driver and people manager, Chukwuma has played k
                     </div>
                 </div>
 
-                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
                         	<img src="/homeassets/images/aniche1.jpeg" alt="" />
