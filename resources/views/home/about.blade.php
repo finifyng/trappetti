@@ -232,8 +232,9 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                         <ul class="list-style-one">
                         	<li><strong>Reduction of the crude oil price shocks on domestic fuel price</strong></li>
                         	<li><strong>Fuel Diversification for Transport to protect against external shocks</strong></li>
-                        	<li><strong>Job creation from new infrastructure and services</strong></li>
-                        	<li><strong>Cheaper, cleaner and safer fuel.</strong></li>
+                        	<li><strong>Job creation across value chain</strong></li>
+                        	<li><strong>Technology Transfer</strong></li>
+                        	<li><strong>Cheaper, cleaner and safer fuel</strong></li>
                         	<li><strong>Cost-Effective energy solution for mass/bulk transportation</strong></li>
                         	<li><strong>Foreign Exchange Savings and more funds for development</strong></li>
                         </ul>
