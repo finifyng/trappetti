@@ -47,13 +47,13 @@
 					
 					<!--Outer Box-->
 					<div class="outer-box">
-						<a href="#" class="theme-btn quote-btn" data-toggle="modal" data-target="#schedule-box">Contact Us <span class="icon"></span></a>
-						<ul class="social-icon-one">
+						
+						<!-- <ul class="social-icon-one">
 							<li><a href="#"><span class="fa fa-facebook"></span></a></li>
 							<li><a href="#"><span class="fa fa-twitter"></span></a></li>
 							<li><a href="#"><span class="fa fa-skype"></span></a></li>
 							<li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-						</ul>
+						</ul> -->
 					</div>
 				
 				</div>

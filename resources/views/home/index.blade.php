@@ -460,7 +460,7 @@
                         	<div class="icon-box">
                             	<span class="icon flaticon-power"></span>
                             </div>
-                        	<h3><a href="#">Energy <br> Savings</a></h3>
+                        	<h3><a href="#">Energy Savings</a></h3>
                             <div class="text">CNG ~ 30% CHEAPER THAN DIESEL</div>
                         </div>
                     </div>

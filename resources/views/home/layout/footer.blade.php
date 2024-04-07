@@ -73,12 +73,12 @@
                                 	<li>Phone: 08033167341 , 08033102244  </li>
                                     <li>info@vacogas.com</li>
                                 </ul>
-                                <ul class="social-icon-one">
+                                <!-- <ul class="social-icon-one">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                     <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                                     <li><a href="#"><span class="fa fa-skype"></span></a></li>
                                     <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                     </div>

@@ -293,15 +293,15 @@ A powerful communicator, change driver and people manager, Chukwuma has played k
                         	<h3><a href="#">CHINEDU OKORONKWO<br> </a></h3>
                             <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
                             <div class="text">
-                            Before joining Vaco Gas, Elder Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
+                            Before joining Vaco Gas, Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
                             <br>
-                            An urbane man of all seasons, Elder Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
+                            An urbane man of all seasons, Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
                             <br>
                             He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
                             <br>
-                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Elder Chinedu Okoronkwo,  had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the inrroduction of the Clompressed Natural Gas { CNG } , three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
+                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Chinedu Okoronkwo had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the inrroduction of the Clompressed Natural Gas { CNG } , three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
                             <br>
-                            His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a  xriteria that led THIS DAY newspapers  in December  2022 to  list and adjude Elder Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
+                            His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a  xriteria that led THIS DAY newspapers  in December  2022 to  list Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
                         </div>
                     </div>
                 </div>
