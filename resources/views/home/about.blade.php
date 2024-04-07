@@ -214,132 +214,8 @@ Our business model is geared towards providing cleaner, cost-effective natural g
         </div>
     </section>
     <!--End Highlights Section-->
-    
-    
-    <!--Achived Section-->
-    <section class="achived-section" style="background-image:url(/homeassets/images/background/11.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Title Column-->
-                <div class="title-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title light">
-                        	<h2>What We Achieved</h2>
-                            <div class="separator"></div>
-                        </div>
-                        <!-- <div class="title">Strength & growth comes only through continuous effort.</div> -->
-                        <ul class="achived-list">
-                        	<li class="icon flaticon-engineer"></li>
-                            <li class="number">15</li>
-                            <li><a href="#">Engineers & Workers</a></li>
-                        </ul>
-                        <div class="text"><b>Industry Impact:</b> Vasco Gas Solutions is at the forefront of the green transportation revolution, helping organizations across various industries transition to cleaner and more sustainable fuel alternatives. By promoting the widespread adoption of CNG technology, we are driving significant reductions in greenhouse gas emissions and air pollution, while also offering substantial cost savings to our clients.</div>
-                    </div>
-                </div>
-                <!--Graph Column-->
-                <div class="graph-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	
-                        <!--Progress Levels-->
-                        <div class="progress-levels">
-                            <div class="row clearfix">
-                            
-                                <!--Skill Box-->
-                                <div class="progress-box wow">
-                                    <div class="inner count-box">
-                                        <div class="bar">
-                                            <div class="bar-innner">
-                                                <div class="bar-fill" data-percent="90">
-                                                	<div class="skill-percent">
-                                                		<span class="count-text" data-speed="3000" data-stop="95">0</span>
-                                                		<span class="percent">%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="text">Production</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Skill Box-->
-                                <div class="progress-box wow">
-                                    <div class="inner count-box">
-                                        <div class="bar">
-                                            <div class="bar-innner">
-                                                <div class="bar-fill" data-percent="45">
-                                                	<div class="skill-percent">
-                                                		<span class="count-text" data-speed="3000" data-stop="45">0</span>
-                                                		<span class="percent">%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="text">EPC Works</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Skill Box-->
-                                <div class="progress-box wow">
-                                    <div class="inner count-box">
-                                        <div class="bar">
-                                            <div class="bar-innner">
-                                                <div class="bar-fill" data-percent="85">
-                                                	<div class="skill-percent">
-                                                		<span class="count-text" data-speed="3000" data-stop="85">0</span>
-                                                		<span class="percent">%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="text">Domestic</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Skill Box-->
-                                <div class="progress-box wow">
-                                    <div class="inner count-box">
-                                        <div class="bar">
-                                            <div class="bar-innner">
-                                                <div class="bar-fill" data-percent="70">
-                                                	<div class="skill-percent">
-                                                		<span class="count-text" data-speed="3000" data-stop="70">0</span>
-                                                		<span class="percent">%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="text">International</div>
-                                    </div>
-                                </div>
-                                
-                                <!--Skill Box-->
-                                <div class="progress-box wow">
-                                    <div class="inner count-box">
-                                        <div class="bar">
-                                            <div class="bar-innner">
-                                                <div class="bar-fill" data-percent="90">
-                                                	<div class="skill-percent">
-                                                		<span class="count-text" data-speed="3000" data-stop="100">0</span>
-                                                		<span class="percent">%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="text">Satisfaction</div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Achived Section-->
+
+
       <!--Career Section-->
       <section class="career-section">
     	<div class="auto-container">
@@ -355,13 +231,12 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                         
                         <ul class="list-style-one">
                         	<li><strong>Reduction of the crude oil price shocks on domestic fuel price</strong></li>
-                        	<li><strong>FuelDiversification for Transport to protect against external shocks</strong></li>
+                        	<li><strong>Fuel Diversification for Transport to protect against external shocks</strong></li>
                         	<li><strong>Job creation from new infrastructure and services</strong></li>
                         	<li><strong>Cost-Effective solution for mass and goods transit operations</strong></li>
-                        	<li><strong>Clean and environmentally</strong></li>
                         	<li><strong>Foreign Exchange Savings and more funds for development</strong></li>
                         </ul>
-                        <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -406,7 +281,7 @@ A powerful communicator, change driver and people manager, Chukwuma has played k
                 <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/chinedu.jpeg" alt="" />
+                        	<img src="/homeassets/images/chinedu1.jpeg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -415,12 +290,9 @@ A powerful communicator, change driver and people manager, Chukwuma has played k
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">ELDER CHINEDU OKORONKWO<br> </a></h3>
+                        	<h3><a href="#">CHINEDU OKORONKWO<br> </a></h3>
                             <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
-                            <div class="text">Born in Igwuruta in Ikwerre Local Government Area of Rivers State,  South-South  Nigeria, on October 10 , 1964 , he attended Central State School , Igwuruta for his primary education and Western Ahoada County ,for his secondary school , educational orientation. 
-                            <br>
-                            He is the Executive Vice Chairman for VACO GAS SOLUTIONS LIMITED.
-                            <br>
+                            <div class="text">
                             Before joining Vaco Gas, Elder Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
                             <br>
                             An urbane man of all seasons, Elder Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
@@ -437,7 +309,7 @@ A powerful communicator, change driver and people manager, Chukwuma has played k
                 <div class="team-block col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/aniche.jpeg" alt="" />
+                        	<img src="/homeassets/images/aniche1.jpeg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>

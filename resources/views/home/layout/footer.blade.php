@@ -67,7 +67,8 @@
                             	<a href="index.html"><img src="/homeassets/images/vacogaslogowhite.png" width="200px" alt="" /></a>
                             </div>
                             <div class="widget-content">
-                            	<div class="text">Address: Plot 3B Elegba Festival Road - Oniru Victoria Island Lagos </div>
+                            	<div class="text">Lagos Office: Plot 3B Elegba Festival Road - Oniru Victoria Island Lagos </div>
+                            	<div class="text">Abuja Office: Aldenco estate  house  43 Main  Avenue. Galadimawa  Abuja </div>
                                 <ul class="list">
                                 	<li>Phone: 08033167341 , 08033102244  </li>
                                     <li>info@vacogas.com</li>

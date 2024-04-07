@@ -265,31 +265,18 @@
                             
                         </div>
                         <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/technical.webp" height="50" alt="" /></a>
+                        	<a href="#"><img src="/homeassets/images/study1.jpg" height="50" alt="" /></a>
                         </div>
                     </div>
                 </div>
-                
                 <div class="market-block-three">
                 	<div class="inner-box">
                     	<div class="upper-box">
-                            <h3><a href="#">CNG delivery to <br> customer site </a></h3>
-                           
-                        </div>
-                        <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/cngdelivery.webp" alt="" /></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="market-block-three">
-                	<div class="inner-box">
-                    	<div class="upper-box">
-                            <h3><a href="market-single.html">CNG decompressed <br> into natural gas</a></h3>
+                            <h3><a href="market-single.html">CNG Compression <br> and Transport</a></h3>
                             
                         </div>
                         <div class="lower-box" style="height:150px!important">
-                        	<a href="#"><img src="/homeassets/images/offering3.webp" alt="" /></a>
+                        	<a href="#"><img src="/homeassets/images/cng-tanker.jpg" alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -297,11 +284,11 @@
                 <div class="market-block-three">
                 	<div class="inner-box">
                     	<div class="upper-box">
-                            <h3><a href="market-single.html">Back-Up Storage <br> on Site</a></h3>
+                            <h3><a href="market-single.html">CNG Conversion Services <br> With Appropriate Kit</a></h3>
                            
                         </div>
                         <div class="lower-box" style="height:150px!important">
-                        	<a href="market-single.html"><img src="/homeassets/images/storage.jpeg" alt="" /></a>
+                        	<a href="market-single.html"><img src="/homeassets/images/storage2.jpg" alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -310,11 +297,10 @@
                 <div class="market-block-three">
                 	<div class="inner-box">
                     	<div class="upper-box">
-                            <h3><a href="market-single.html">Natural gas used for <br> power and industrial process</a></h3>
-                          
+                            <h3><a href="market-single.html">CNG Daughter Stations</a></h3>
                         </div>
                         <div class="lower-box">
-                        	<a href="market-single.html"><img src="/homeassets/images/offering1.jpeg"  alt="" /></a>
+                        	<a href="market-single.html"><img src="/homeassets/images/daughterstation1.jpg"  alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -409,12 +395,12 @@
     <section class="cng-advantage">
         <div class="container">
             <div class="sec-title centered">
-                <h2>PROPOSED CNG SCHEME</h2>
+                <h2>VACO GAS VALUE CHAIN</h2>
                 <div class="separator"></div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <img src="/homeassets/images/cngscheme.png" width="100%" alt="">
+                    <img src="/homeassets/images/cngscheme.jpg" width="100%" alt="">
                 </div>
             </div>
         </div>
