@@ -225,7 +225,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                 <div class="content-column col-lg-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title">
-                        	<h2>The CNG Advantage <br> as a Transport Fuel.</h2>
+                        	<h2>THE NATURAL GAS ADVANTAGE</h2>
                             <div class="separator centered"></div>
                         </div>
                         
@@ -233,7 +233,8 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                         	<li><strong>Reduction of the crude oil price shocks on domestic fuel price</strong></li>
                         	<li><strong>Fuel Diversification for Transport to protect against external shocks</strong></li>
                         	<li><strong>Job creation from new infrastructure and services</strong></li>
-                        	<li><strong>Cost-Effective solution for mass and goods transit operations</strong></li>
+                        	<li><strong>Cheaper, cleaner and safer fuel.</strong></li>
+                        	<li><strong>Cost-Effective energy solution for mass/bulk transportation</strong></li>
                         	<li><strong>Foreign Exchange Savings and more funds for development</strong></li>
                         </ul>
                         
