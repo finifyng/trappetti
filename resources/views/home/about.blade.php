@@ -318,7 +318,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                             </div>
                         </div>
                         <div class="lower-content">
-                        	<h3><a href="#">ALICHE CHIJIOKE OTI Fcai <br> </a></h3>
+                        	<h3><a href="#">ALICHE CHIJIOKE OTI <br> </a></h3>
                             <div class="designation">Executive Director</div>
                             <div class="text">Aliche Chijioke Oti holds a BSc in Political Science and Public Administration from University of Uyo, Uyo, Akwa Ibom State.
                             He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
