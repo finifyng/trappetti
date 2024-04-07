@@ -67,14 +67,11 @@
                             	<a href="index.html"><img src="/homeassets/images/vacogaslogowhite.png" width="200px" alt="" /></a>
                             </div>
                             <div class="widget-content">
-                            	<div class="text">..</div>
+                            	<div class="text">Address: Plot 3B Elegba Festival Road - Oniru Victoria Island Lagos </div>
                                 <ul class="list">
-                                	<li>+0 625-07520-6644 </li>
+                                	<li>Phone: 08033167341 , 08033102244  </li>
                                     <li>info@vacogas.com</li>
                                 </ul>
-                                <div class="timing">
-                                	<span>Visit Our Office:</span>Monday - Satday: 9.00am to 5.00pm
-                                </div>
                                 <ul class="social-icon-one">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                     <li><a href="#"><span class="fa fa-twitter"></span></a></li>

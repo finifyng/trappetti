@@ -28,9 +28,8 @@
                         </div>
                         <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
                         <div class="text">
-                        	<p>Vaco gas is committed to providing solution and sustainability in the ever-increasing demand for energy in Nigeria through Compressed Natural Gas (CNG) production and distribution for industrial use and to Automobile Fueling Stations across South East and South-South of Nigeria. We are also committed to Automobile conversion innovation using our cutting-edge technology 
-<br>
-                            Vacogas is a leading provider of Compressed Natural Gas (CNG) solutions dedicated to promoting sustainability in the transportation sector. With a commitment to innovation and environmental responsibility, we offer comprehensive CNG services tailored to meet the evolving needs of our clients.
+                        	<p>Vaco Gas is a Nigerian midstream to downstream company seeking to deliver smart energy solutions to a wide spectrum of customers with a strategic focus on the natural gas value chain. Our strategic priorities include gas sourcing, distribution and technical solutions for gas utilisation via pipeline CNG or LNG. </br>
+Our business model is geared towards providing cleaner, cost-effective natural gas for power generation, vehicle transportation and manufacturing processes in infrastructure stranded markets within and beyond  the emerging industrial hubs of South Eastern Nigeria.
                             </p>
                         </div>
                         <!-- <div class="signature"><img src="images/resource/signature.png" alt="" /></div> -->
@@ -193,12 +192,20 @@
                 
                 <!--Services Column-->
                 <div class="services-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="upper-box">
+                            <div class="icon flaticon-target"></div>
+                            <h2>Our Vision</h2>
+                        </div>
+                        <div class="text">To be a leader in innovative energy solutions in sub-saharan Africa</div>
+                        
+                    </div>
                 	<div class="inner-column">
                         <div class="upper-box">
                             <div class="icon flaticon-target"></div>
                             <h2>Our Mission</h2>
                         </div>
-                        <div class="text">To provide cleaner, efficient, sustainable and affordable energy solution to the Nigerian increasing energy demand. </div>
+                        <div class="text">To deepen energy utilization in immediate markets by facilitating smart and efficient energy solutions to a differentiated cross-section of customers. </div>
                         <!-- <a href="#" class="services">Our Services <span class="icon flaticon-arrow-pointing-to-right"></span></a> -->
                     </div>
                 </div>
@@ -339,7 +346,7 @@
         	<div class="row clearfix">
             	
                 <!--Content Column-->
-                <div class="content-column col-md-12 col-sm-12 col-xs-12">
+                <div class="content-column col-lg-6 col-sm-12 col-xs-12">
                 	<div class="inner-column">
                     	<div class="sec-title">
                         	<h2>The CNG Advantage <br> as a Transport Fuel.</h2>
@@ -356,6 +363,9 @@
                         </ul>
                         <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
+                </div>
+                <div class="col-lg-6">
+                    <img src="/homeassets/images/reliable.jpeg" width="100%" alt="">
                 </div>
                 
             </div>
@@ -386,7 +396,9 @@
                         <div class="lower-content">
                         	<h3><a href="#">Ezeike Chukwuma</a></h3>
                             <div class="designation">Managing Director</div>
-                            <div class="text">..</div>
+                            <div class="text">Chukwuma is a seasoned oil and gas professional with over 28 years cognate experience in the upstream midstream and downstream sectors.
+Following a brief stint with Guinness Nigeria, Chukwuma joined the Royal Dutch Shell Group as a Production Facilities Engineer involved with design construction and lifecycle management of strategic oil and gas production assets. He joined the Oando Group in 2009 as Head Quality Assurance where he oversaw the implementation of robust quality management systems for the upstream and midstream subsidiaries. Chukwuma was later appointed Head Engineering and Operations for the Axella group where he led the development of over 400 megawatts of captive power generation and expanded the largest domestic gas distribution network in sub-Saharan Africa including the development of a 150000scmd CNG mother station.
+A powerful communicator, change driver and people manager, Chukwuma has played key leadership roles in strategic projects in Nigeria, US and the Middle East including sitting as a member of the policy think-tank for the Nigerian Gas Network Code. Chukwuma has an MBA from Imperial College Business School London.</div>
                         </div>
                     </div>
                 </div>

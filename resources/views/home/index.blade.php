@@ -233,10 +233,12 @@
                         	<h2>About Us</h2>
                             <div class="separator centered"></div>
                         </div>
-                        <div class="text">Vaco Gas solution limited is a key player in the gas downstream sector of the Nigerian economy. Vaco gas is committed to providing solution and sustainability in the ever-increasing demand for energy in Nigeria through Compressed Natural Gas (CNG) production and distribution for industrial use and to Automobile Fueling Stations across South East and South-South of Nigeria. We are also committed to Automobile conversion innovation using our cutting-edge technology </div>
+                        <div class="text">Vaco Gas is a Nigerian midstream to downstream company seeking to deliver smart energy solutions to a wide spectrum of customers with a strategic focus on the natural gas value chain. Our strategic priorities include gas sourcing, distribution and technical solutions for gas utilisation via pipeline CNG or LNG.</br>
+                        Our business model is geared towards providing cleaner, cost-effective natural gas for power generation, vehicle transportation and manufacturing processes in infrastructure stranded markets within and beyond  the emerging industrial hubs of South Eastern Nigeria.</div>
                         <ul class="list-style-one">
                         	<!-- <li><strong>Our Vision</strong>Mission is to facilitate the widespread adoption of clean and efficient energy solutions, thereby contributing to a greener and more sustainable future for generations to come</li> -->
-                            <li><strong>Our Mission</strong>To provide cleaner, efficient, sustainable and affordable energy solution to the Nigerian increasing energy demand. </li>
+                            <li><strong>Our Vision</strong>To be a leader in innovative energy solutions in sub-saharan Africa </li>
+                            <li><strong>Our Mission</strong>To deepen energy utilization in immediate markets by facilitating smart and efficient energy solutions to a differentiated cross-section of customers. </li>
                         </ul>
                         <!-- <a class="see_all" href="#">See All Positions <span class="icon flaticon-right-arrow-1"></span></a> -->
                     </div>

@@ -55,9 +55,9 @@
                     	<div class="inner-column">
                         	<div class="upper-box">
                             	<ul class="list-style-three">
-                                	<li><span class="icon flaticon-technology-2"></span><strong>Call Us: </strong>+321 4567 89 012</li>
+                                	<li><span class="icon flaticon-map-marker"></span><strong>Address: </strong>Plot 3B Elegba Festival Road - Oniru Victoria Island Lagos</li>
+                                	<li><span class="icon flaticon-technology-2"></span><strong>Call Us: </strong>08033167341 , 08033102244</li>
                                     <li><span class="icon flaticon-envelope-1"></span><strong>Mail Us: </strong>info@vacogas.com</li>
-                                    <li><span class="icon flaticon-time-1"></span><strong>Office Hrs: </strong>Monday - Saturday: 9.00am to 5.00pm</li>
                                 </ul>
                             </div>
                             <!-- <div class="lower-box">
