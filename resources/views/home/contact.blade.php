@@ -10,12 +10,12 @@
                 <li>Contact Us</li>
             </ul>
         	<div class="sec-title centered light">
-            	<h2>Visit Our Location</h2>
+            	<h2>Contact Us</h2>
                 <div class="separator"></div>
             </div>
             
             <!--Map Outer-->
-            <div class="map-outer">
+            <!-- <div class="map-outer">
                 
                 <div class="map-canvas"
                     data-zoom="12"
@@ -27,7 +27,7 @@
                     data-icon-path="/homeassets/images/icons/map-marker.png"
                     data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@vacogas.com</a>">
                 </div>
-            </div>
+            </div> -->
             
         </div>
     </section>
@@ -81,7 +81,7 @@
                             <!-- Contact Form -->
                             <div class="contact-form">
                                 <!--Default Form-->
-                                <form method="post" action="/" id="contact-form">
+                                <!-- <form method="post" action="/contact" id="contact-form"> -->
                                     <div class="row clearfix">
                                         <div class="col-md-6 col-sm-6 col-xs-12 form-group">
                                             <input type="text" name="username" placeholder="Name" required>
@@ -108,7 +108,7 @@
                                         </div>
                                         
                                     </div>
-                                </form>
+                                <!-- </form> -->
                                     
                             </div>
                             <!--End Contact Form -->
