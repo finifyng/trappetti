@@ -280,7 +280,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                 <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image">
-                        	<img src="/homeassets/images/chinedu1.jpeg" alt="" />
+                        	<img src="/homeassets/images/chinedu1.jpg" alt="" />
                             <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
