@@ -7108,6 +7108,7 @@ img{
 	position:relative;
 	width:100%;
 	display:block;
+	height: 100%!important;
 }
 
 .team-block .inner-box .image .overlay-box{

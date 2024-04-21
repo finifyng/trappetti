@@ -258,14 +258,14 @@ Our business model is geared towards providing cleaner, cost-effective natural g
             	
                 <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
-                    	<div class="image">
+                    	<div class="image team_image">
                         	<img src="/homeassets/images/chukwuma.jpg" alt="" />
-                            <div class="overlay-box">
+                            <!-- <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                     <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="lower-content">
                         	<h3><a href="#">Ezeike Chukwuma</a></h3>
@@ -279,14 +279,14 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                 
                 <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
-                    	<div class="image">
+                    	<div class="image team_image">
                         	<img src="/homeassets/images/chinedu1.jpg" alt="" />
-                            <div class="overlay-box">
+                            <!-- <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                     <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="lower-content">
                         	<h3><a href="#">CHINEDU OKORONKWO<br> </a></h3>
@@ -307,14 +307,14 @@ Our business model is geared towards providing cleaner, cost-effective natural g
 
                 <div class="team-block col-md-4 col-sm-4 col-xs-12">
                 	<div class="inner-box">
-                    	<div class="image">
+                    	<div class="image team_image">
                         	<img src="/homeassets/images/aliche1.jpg" alt="" />
-                            <div class="overlay-box">
+                            <!-- <div class="overlay-box">
                             	<ul class="social-icon-two">
                                     <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                                     <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="lower-content">
                         	<h3><a href="#">ALICHE CHIJIOKE OTI <br> </a></h3>
