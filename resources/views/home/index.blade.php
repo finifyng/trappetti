@@ -296,7 +296,7 @@
                 <div class="market-block-three">
                 	<div class="inner-box">
                     	<div class="upper-box">
-                            <h3><a href="#">CNG Daughter Stations</a></h3>
+                            <h3><a href="#">CNG Daughter </br> Stations</a></h3>
                         </div>
                         <div class="lower-box">
                         	<a href="#"><img src="/homeassets/images/daughterstation1.jpg"  alt="" /></a>
