@@ -1,79 +1,89 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="en">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<meta charset="utf-8">
-<title>Vacogas</title>
-<!-- Stylesheets -->
-<link href="/homeassets/css/bootstrap.css" rel="stylesheet">
-<link href="/homeassets/css/style.css" rel="stylesheet">
-<link href="/homeassets/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
-<link href="/homeassets/plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
-<link href="/homeassets/plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
-<link href="/homeassets/css/responsive.css" rel="stylesheet">
-<!--<link href="css/color.css" rel="stylesheet">-->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Construction & Building HTML Template" />
+    <meta name="author" content="AlexaTheme" />
+    <title>Trappetti Nigeria Limited (TNL)</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/homeassets/img/favicon.png" />
 
-<link rel="shortcut icon" href="/homeassets/images/vacogasfavicon.png" type="image/x-icon">
-<link rel="icon" href="/homeassets/images/vacogasfavicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <link rel="stylesheet" href="/homeassets/css/fontawesome.min.css" />
 
-<style>
-.team_image{
-	width:200px!important;
-	height:220px!important;
-}
-</style>
+    <link rel="stylesheet" href="/homeassets/css/themify-icons.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/elegant-line-icons.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/elegant-font-icons.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/flaticon.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/animate.min.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/slick.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/slider.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/odometer.min.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/venobox/venobox.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/owl.carousel.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/main.css" />
+
+    <link rel="stylesheet" href="/homeassets/css/responsive.css" />
+    <script src="/homeassets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 
 <body>
-
-<div class="page-wrapper">
- 	
-    
-    <!-- Main Header-->
+     
+     <!-- Main Header-->
 	@include('home.layout.header')
     <!--End Main Header -->
     
 	@yield('content')
 
 	@include('home.layout.footer')
-    
-</div>
-<!--End pagewrapper-->
 
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-double-up"></span></div>
 
-<script src="/homeassets/js/jquery.js"></script> 
-<!--Revolution Slider-->
-<script src="/homeassets/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="/homeassets/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
-<script src="/homeassets/js/main-slider-script.js"></script>
+    <a data-scroll href="#header" id="scroll-to-top"
+      ><i class="arrow_carrot-up"></i
+    ></a>
 
-<script src="/homeassets/js/bootstrap.min.js"></script>
-<script src="/homeassets/js/jquery.fancybox.js"></script>
-<script src="/homeassets/js/owl.js"></script>
-<script src="/homeassets/js/jquery-ui.js"></script>
-<script src="/homeassets/js/wow.js"></script>
-<script src="/homeassets/js/knob.js"></script>
-<script src="/homeassets/js/appear.js"></script>
-<script src="/homeassets/js/script.js"></script>
+    <script
+      data-cfasync="false"
+      src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.html"
+    ></script>
+    <script src="/homeassets/js/vendor/jquery-1.12.4.min.js"></script>
 
-<!--Google Map APi Key-->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyBKS14AnP3HCIVlUpPKtGp7CbYuMtcXE2o"></script>
-<script src="/homeassets/js/map-script.js"></script>
-<!--End Google Map APi-->
+    <script src="/homeassets/js/vendor/bootstrap.min.js"></script>
+
+    <script src="/homeassets/js/vendor/tether.min.js"></script>
+
+    <script src="/homeassets/js/vendor/headroom.min.js"></script>
+
+    <script src="/homeassets/js/vendor/owl.carousel.min.js"></script>
+
+    <script src="/homeassets/js/vendor/smooth-scroll.min.js"></script>
+
+    <script src="/homeassets/js/vendor/venobox.min.js"></script>
+
+    <script src="/homeassets/js/vendor/jquery.ajaxchimp.min.js"></script>
+
+    <script src="/homeassets/js/vendor/slick.min.js"></script>
+
+    <script src="/homeassets/js/vendor/waypoints.min.js"></script>
+
+    <script src="/homeassets/js/vendor/odometer.min.js"></script>
+
+    <script src="/homeassets/js/vendor/wow.min.js"></script>
+
+    <script src="/homeassets/js/main.js"></script>
 </body>
-</html>
+
+  
+</html> 

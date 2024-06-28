@@ -2,353 +2,254 @@
 
 @section('content')
 
-	<!--Page Title-->
-	<section class="page-title" style="background-image:url(/homeassets/images/background/6.jpg)">
-    	<div class="auto-container">
-        	<ul class="page-breadcrumb">
-            	<li><a href="index.html">Home</a></li>
-                <li>About Us</li>
+<section class="page-header"  style="height:200px;">
+      <div class="container">
+        <div class="page-content text-center">
+          <h2>About us</h2>
+        </div>
+      </div>
+    </section>
+    <section class="about-section padding">
+      <div class="container">
+        <div class="row about-wrap">
+          <div class="col-lg-6 sm-padding">
+            <div class="about-content wow fadeInLeft">
+              <h2>
+              COMMITTED TO STAYING AHEAD OF THE COMPETITON
+              </h2>
+              <p>
+              Trappetti Nigeria Limited (TNL) is a technical service and consultancy company offering client specific business solutions.</br>
+              TNL provides excellent professional services in facilities design, construction, inspection and maintenance, procurement, logistics support services, asset management, training and consultancy amongst other specialist services. </br>
+              TNL is led by a team of experienced engineers and professionals who have sat on various sides of the business desk.
+              TNL features a management framework built to thrive in a dynamic business environment towards ensuring continual quality service/product delivery and client satisfaction without compromising excellence.
+
+              </p>
+              <a href="aboutus.html" class="default-btn">More About Us</a>
+            </div>
+          </div>
+          <div class="col-lg-6 sm-padding">
+            <ul class="about-promo">
+              <li class="about-promo-item wow fadeInUp">
+                <i class="flaticon-factory"></i>
+                <div>
+                  <h3>Quality Driven </h3>
+                  <p>
+                  We offer nothing but quality services to our valued customers.
+                  </p>
+                </div>
+              </li>
+              <li class="about-promo-item wow fadeInUp" data-wow-delay="300ms">
+                <i class="flaticon-worker"></i>
+                <div>
+                  <h3>Customer Focused</h3>
+                  <p>
+                  Customer Satisfaction is one of our core responsibilities.
+                  </p>
+                </div>
+              </li>
+              <li class="about-promo-item wow fadeInUp" data-wow-delay="500ms">
+                <i class="flaticon-gear"></i>
+                <div>
+                  <h3>Experienced Professionals</h3>
+                  <p>
+                  TNL is led by a team of experienced engineers and professionals.
+                  </p>
+                </div>
+              </li>
             </ul>
-        	<h1>About Us</h1>
+          </div>
         </div>
+      </div>
     </section>
-    <!--End Page Title-->
-    
-    <!--Company Section-->
-    <section class="company-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>Company OverView</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        <!-- <div class="bold-text">We Providing Best Indutrial Solution For Our Customers Business Growing In Last 25+ Years.</div> -->
-                        <div class="text">
-                        	<p>Vaco Gas is a Nigerian midstream to downstream company seeking to deliver smart energy solutions to a wide spectrum of customers with a strategic focus on the natural gas value chain. Our strategic priorities include gas sourcing, distribution and technical solutions for gas utilisation via pipeline CNG or LNG. </br>
-Our business model is geared towards providing cleaner, cost-effective natural gas for power generation, vehicle transportation and manufacturing processes in infrastructure stranded markets within and beyond  the emerging industrial hubs of South Eastern Nigeria.
-                            </p>
-                        </div>
-                        <!-- <div class="signature"><img src="images/resource/signature.png" alt="" /></div> -->
-                    </div>
+    <section class="service-section bg-grey padding">
+      <div class="dark-bg"></div>
+      <div
+        class="section-heading dark-background text-center mb-40 wow fadeInUp"
+        data-wow-delay="100ms"
+      >
+        <span></span>
+        <h2>
+        Our Services
+        </h2>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 offset-lg-1">
+            <div
+              id="service-carousel"
+              class="service-carousel box-shadow owl-carousel"
+            >
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="flaticon-assembly-line"></i>
                 </div>
+                <h3>TECHNICAL PROCUREMENT</h3>
                 
-                <!--Image Column-->
-                <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="image">
-                        	<img src="/homeassets/images/cngtruck.jpeg" alt="" />
-                        </div>
-                        <!-- <div class="carousel-box">
-                        	<div class="single-item-carousel owl-carousel owl-box">
-                            
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="testimonial-block-six">
-                                    <div class="inner">
-                                        <div class="quote-icon">
-                                            <span class="icon flaticon-left-quote-sketch"></span>
-                                        </div>
-                                        <div class="text">Positive behavioral supports is a behavior management system used to understand behavior. </div>
-                                        <div class="author-box">
-                                            <div class="author-inner">
-                                                <div class="image"><img src="images/resource/author-6.jpg" alt="" /></div>
-                                                <h3>Teena Venanda</h3>
-                                                <div class="designation">CEO & Founder</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div> -->
-                    </div>
+                <div class="overlay-icon">
+                  <i class="flaticon-assembly-line"></i>
                 </div>
+              </div>
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="flaticon-industrial-robot"></i>
+                </div>
+                <h3>EPC</h3>
                 
+                <div class="overlay-icon">
+                  <i class="flaticon-industrial-robot"></i>
+                </div>
+              </div>
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="flaticon-3d-printer"></i>
+                </div>
+                <h3>Asset Lifecycle Management</h3>
+                
+                <div class="overlay-icon">
+                  <i class="flaticon-3d-printer"></i>
+                </div>
+              </div>
+              
+              
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="flaticon-conveyor"></i>
+                </div>
+                <h3>SMART ENERGY SOLUTIONS (Bespoke Solar Solutions)</h3>
+                
+                <div class="overlay-icon">
+                  <i class="flaticon-conveyor"></i>
+                </div>
+              </div>
+              <div class="service-item">
+                <div class="service-icon">
+                  <i class="flaticon-control-system"></i>
+                </div>
+                <h3>MARINE SUPPORT SERVICES</h3>
+                
+                <div class="overlay-icon">
+                  <i class="flaticon-control-system"></i>
+                </div>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
     </section>
-    <!--End Company Section-->
-    
-    <!--Highlights Section-->
-    <section class="highlights-section">
-    	<div class="image-layer" style="background-image:url(/homeassets/images/about2.jpeg)"></div>
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>Core Values:</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        
-                        <div class="row clearfix">
-                        	
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-target"></span>
-                                    </div>
-                                    <h3>Safety</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-graph"></span>
-                                    </div>
-                                    <h3>Sustainability</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-quality"></span>
-                                    </div>
-                                    <h3>Innovation</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-idea"></span>
-                                    </div>
-                                    <h3>Integrity</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-loupe"></span>
-                                    </div>
-                                    <h3>Customer Focus</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                            <!--Hightlight Block-->
-                            <div class="hightlight-block col-md-4 col-sm-6 col-xs-12">
-                            	<div class="hightlight-inner">
-                                	<div class="icon-box">
-                                    	<span class="icon flaticon-people-1"></span>
-                                    </div>
-                                    <h3>Collaboration</h3>
-                                    <a href="#" class="overlay-link"></a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-                
-                <!--Services Column-->
-                <div class="services-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <div class="upper-box">
-                            <div class="icon flaticon-target"></div>
-                            <h2>Our Vision</h2>
-                        </div>
-                        <div class="text">To be a leader in innovative energy solutions in sub-saharan Africa</div>
-                        
-                    </div>
-                	<div class="inner-column">
-                        <div class="upper-box">
-                            <div class="icon flaticon-target"></div>
-                            <h2>Our Mission</h2>
-                        </div>
-                        <div class="text">To deepen energy utilization in immediate markets by facilitating smart and efficient energy solutions to a differentiated cross-section of customers. </div>
-                        <!-- <a href="#" class="services">Our Services <span class="icon flaticon-arrow-pointing-to-right"></span></a> -->
-                    </div>
-                </div>
-                
-            </div>
+
+    <div class="cta-section padding">
+      <div class="container">
+        <div class="cta-content text-center">
+          <span class="wow fadeInUp">Mission Statement</span>
+          <h3 style="color:white;" class="wow fadeInUp" data-wow-delay="300ms">
+          TNL is committed to staying ahead of the competiton, through the provision of excellent technical quality services delivered through creative and highly motivated professionals.
+          </h3 style="color:white;">
         </div>
-    </section>
-    <!--End Highlights Section-->
+      </div>
+    </div>
 
 
-      <!--Career Section-->
-      <section class="career-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Content Column-->
-                <div class="content-column col-lg-6 col-sm-12 col-xs-12">
-                	<div class="inner-column">
-                    	<div class="sec-title">
-                        	<h2>THE NATURAL GAS ADVANTAGE</h2>
-                            <div class="separator centered"></div>
-                        </div>
-                        
-                        <ul class="list-style-one">
-                        	<li><strong>Cheaper, cleaner and safer fuel</strong></li>
-                        	<li><strong>Cost-Effective energy solution for mass/bulk transportation</strong></li>
-                            <li><strong>Job creation across value chain</strong></li>
-                        	<li><strong>Technology Transfer</strong></li>
-                        </ul>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <img src="/homeassets/images/reliable.jpeg" width="100%" alt="">
-                </div>
-                
-            </div>
+    <div class="sponsor-section">
+      <div class="dots"></div>
+      <div
+        class="section-heading dark-background text-center mb-40 wow fadeInUp"
+        data-wow-delay="100ms"
+      >
+        <span></span>
+        <h2 style="color:#172542">
+        Our Clients
+        </h2>
+      </div>
+      <div class="container">
+        <div id="sponsor-carousel" class="sponsor-carousel owl-carousel">
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor1.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor2.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor3.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor4.jpg" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor5.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor6.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          <div class="sponsor-item" style="margin-left:20px;">
+            <img src="/homeassets/img/sponsor7.png" alt="sponsor" style="opacity:1;"/>
+          </div>
+          
         </div>
-    </section>
-    <!--End Career Section-->
-    
-    <!--Team Section-->
-    <section class="team-section">
-    	<div class="auto-container">
-        	<div class="sec-title centered">
-            	<h2>Behind Our Success</h2>
-                <div class="separator"></div>
+      </div>
+    </div>
+    <section class="widget-section padding" style="color:white;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6 sm-padding">
+            <div class="widget-content">
+              <a href="index-2.html"><img style="width:250px"src="/homeassets/img/trappetti-logowhite.png" alt="brand" /></a>
+              <p>
+			  Trappetti Nigeria Limited (TNL) is a technical service and consultancy company offering client specific business solutions.
+              </p>
             </div>
-            <div class="row clearfix">
-            	
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/chukwuma.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">Ezeike Chukwuma</a></h3>
-                            <div class="designation">Managing Director</div>
-                            <div class="text">Chukwuma is a seasoned oil and gas professional with over 28 years cognate experience in the upstream midstream and downstream sectors.
-                            Following a brief stint with Guinness Nigeria, Chukwuma joined the Royal Dutch Shell Group as a Production Facilities Engineer involved with design construction and lifecycle management of strategic oil and gas production assets. He joined the Oando Group in 2009 as Head Quality Assurance where he oversaw the implementation of robust quality management systems for the upstream and midstream subsidiaries. Chukwuma was later appointed Head Engineering and Operations for the Axella group where he led the development of over 400 megawatts of captive power generation and expanded the largest domestic gas distribution network in sub-Saharan Africa including the development of a 150000scmd CNG mother station.
-                            A powerful communicator, change driver and people manager, Chukwuma has played key leadership roles in strategic projects in Nigeria, US and the Middle East including sitting as a member of the policy think-tank for the Nigerian Gas Network Code. Chukwuma has an MBA from Imperial College Business School London.</div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/chinedu1.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">CHINEDU OKORONKWO<br> </a></h3>
-                            <div class="designation">EXECUTIVE VICE CHAIRMAN</div>
-                            <div class="text">
-                            Before joining Vaco Gas, Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
-                            <br>
-                            An urbane man of all seasons, Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
-                            <br>
-                            He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
-                            <br>
-                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Chinedu Okoronkwo had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the introduction of the Compressed Natural Gas (CNG), three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
-                            <br>
-                            His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a criteria that led THIS DAY newspapers in December  2022 to  list Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="team-block col-md-4 col-sm-4 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image team_image">
-                        	<img src="/homeassets/images/aliche1.jpg" alt="" />
-                            <!-- <div class="overlay-box">
-                            	<ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                        <div class="lower-content">
-                        	<h3><a href="#">ALICHE CHIJIOKE OTI <br> </a></h3>
-                            <div class="designation">Executive Director</div>
-                            <div class="text">Aliche Chijioke Oti holds a BSc in Political Science and Public Administration from University of Uyo, Uyo, Akwa Ibom State.
-                            He is a Member and Fellow of Institute of Corporate Administration ICAD Nigeria.
-                            <br>
-                            Aliche is the Executive Director for VACO GAS SOLUTIONS LIMITED. Prior to joining Vaco Gas, Aliche served as the Managing Director for Auto Gas Limited, a Petroleum and Gas Marketing Company providing marketing and distribution services to individuals and Corporates across Nigeria.
-                            <br>
-                            Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
-                            <br>
-                            Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
-                            He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
-                        </div>
-                    </div>
-                </div>
-                
+          </div>
+          <div class="col-lg-2 col-sm-6 sm-padding">
+            <div class="widget-content">
+              <h4>Company</h4>
+              <ul class="widget-links">
+                <li><a href="aboutus.html">About Us</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+              </ul>
             </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 sm-padding">
+            <div class="widget-content">
+              <h4>Headquarters:</h4>
+              <p>3b Elegba Festival Drive Oniru Layout Victoria Island Lagos</p>
+              <h4>Fabrication Yard :</h4>
+              <p>Km 39 Lekki Epe Expressway. Off Golf Course Road. Lakowe - Lagos.</p>
+              <h4>US Office:</h4>
+              <p>312 Applewood Dr Slidell LA. 70641 USA</p>
+              <span
+                ><a
+                  href="#"
+                  class="__cf_email__"
+                  >info@trappettigroup.com</a
+                ></span
+              >
+              <span>+1 945 2400 775</span>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 sm-padding">
+            <div class="widget-content">
+              <h4>Newslatter Subscription</h4>
+              
+              <div class="subscribe-box clearfix">
+                <div class="subscribe-form-wrap">
+                  <form action="#" class="subscribe-form">
+                    <input
+                      type="email"
+                      name="email"
+                      id="subs-email"
+                      class="form-input"
+                      placeholder="Enter Your Email Address..."
+                    />
+                    <button type="submit" class="submit-btn">Subscribe</button>
+                    <div id="subscribe-result">
+                      <p class="subscription-success"></p>
+                      <p class="subscription-error"></p>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
+      </div>
     </section>
-    <!--End Team Section-->
-    
-   <!--Call To Action Section-->
-   <section class="call-to-action-section" style="background-image:url(/homeassets/images/background/5.jpg)">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<div class="col-md-9 col-sm-12 col-xs-12">
-                	<h2>Have any questions relating to CNG?</h2>
-                </div>
-                <div class="link-column col-md-3 col-sm-12 col-xs-12">
-                	<a class="apointment" href="/about">Contact Us <span class="icon flaticon-arrow-pointing-to-right"></span></a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Call To Action Section-->
 @endsection

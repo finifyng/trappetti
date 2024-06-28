@@ -1,109 +1,32 @@
-<!-- Preloader -->
-<div class="preloader"></div>
- 	
-<!-- Main Header-->
-<header class="main-header">
-
-	<!-- Header Top -->
-	
-	<!-- Header Top End -->
-	
-	<!-- Main Box -->
-	<div class="main-box">
-		<div class="auto-container">
-			<div class="outer-container clearfix">
-				<!--Logo Box-->
-				<div class="logo-box">
-					<div class="logo"><a href="/"><img src="/homeassets/images/vacogaslogowhite.png" width="200px" alt=""></a></div>
-				</div>
-				
-				<!--Nav Outer-->
-				<div class="nav-outer clearfix">
-				
-					<!-- Main Menu -->
-					<nav class="main-menu">
-						<div class="navbar-header">
-							<!-- Toggle Button -->    	
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-						</div>
-						
-						<div class="navbar-collapse collapse clearfix">
-							<ul class="navigation clearfix">
-								<li @if (Request::path()=='/' )
-								class="current"
-								@endif> <a href="/">Home</a></li>
-								<li @if (Request::path()=='about' )
-								class="current"
-								@endif><a href="/about">About</a></li>
-								<li @if(Request::is('contact')) class="current" @endif><a href="/contact">Contact</a></li>
-							</ul>
-						</div>
-					</nav>
-					<!-- Main Menu End-->
-					
-					<!--Outer Box-->
-					<div class="outer-box">
-						
-						<!-- <ul class="social-icon-one">
-							<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-							<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-							<li><a href="#"><span class="fa fa-skype"></span></a></li>
-							<li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-						</ul> -->
-					</div>
-				
-				</div>
-				<!--Nav Outer End-->
-				
-			</div>    
+<div class="site-preloader-wrap">
+	<div class="spinner"></div>
+</div>
+<header class="header">
+	<div class="primary-header">
+	<div class="container">
+		<div class="primary-header-inner">
+		<div class="header-logo">
+			<a href="index-2.html"><img src="/homeassets/img/trappetti-logo.png" alt="Trappettigroup" /></a>
 		</div>
-	</div>
-	
-	<!--Sticky Header-->
-	<div class="sticky-header">
-		<div class="auto-container">
-			
-			<div class="outer-container clearfix">
-				<!--Logo Box-->
-				<div class="logo-box pull-left">
-					<div class="logo"><a href="/"><img src="/homeassets/images/vacogaslogodark.png" width="200px" alt=""></a></div>
-				</div>
-				
-				<!--Nav Outer-->
-				<div class="nav-outer clearfix">
-					<!-- Main Menu -->
-					<nav class="main-menu">
-						<div class="navbar-header">
-							<!-- Toggle Button -->    	
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>
-						</div>
-						
-						<div class="navbar-collapse collapse clearfix">
-							<ul class="navigation clearfix">
-								<li> <a href="/">Home</a></li>
-								<li><a href="/about">About</a></li>
-								<li><a href="/contact">Contact</a></li>
-							</ul>
-						</div>
-					</nav>
-					<!-- Main Menu End-->
-					
-				</div>
-				<!--Nav Outer End-->
-				
+		<div class="header-menu-wrap">
+			<ul class="dl-menu">
+			<li ><a href="/" style="font-size:16px!important;">Home</a></li>
+			<li><a href="/about" style="font-size:16px!important;">About us</a></li>
+			<li><a href="/contact" style="font-size:16px!important;">Contact Us</a></li>
+			</ul>
+		</div>
+		<div class="header-right">
+			<!-- <a class="menu-btn" href="contact.php">Request a Quote</a>
+			-->
+			<div class="mobile-menu-icon">
+			<div class="burger-menu">
+				<div class="line-menu line-half first-line"></div>
+				<div class="line-menu"></div>
+				<div class="line-menu line-half last-line"></div>
 			</div>
-			
+			</div>
+		</div>
 		</div>
 	</div>
-	<!--End Sticky Header-->
-	
-</header>
-<!--End Main Header -->
+	</div>
+</header>  
