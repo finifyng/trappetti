@@ -37,6 +37,16 @@
 
     <link rel="stylesheet" href="/homeassets/css/responsive.css" />
     <script src="/homeassets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3NMQ62RYT4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-3NMQ62RYT4');
+    </script>
 </head>
 
 <body>
