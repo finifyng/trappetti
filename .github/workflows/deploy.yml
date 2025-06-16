@@ -82,11 +82,12 @@ jobs:
             if [ ! -f .env ]; then
               cp .env.example .env
               echo ".env file created from .env.example"
+              php artisan key:generate
             fi
 
             #install composer and dependencies if not already installed else composer update
             if [ ! -d vendor ]; then
-              composer install
+              composer update
             fi    
 
       - name: Pulling New Updates
