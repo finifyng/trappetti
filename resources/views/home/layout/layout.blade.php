@@ -64,10 +64,10 @@
       ><i class="arrow_carrot-up"></i
     ></a>
 
-    <script
+    {{-- <script
       data-cfasync="false"
       src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.html"
-    ></script>
+    ></script> --}}
     <script src="/homeassets/js/vendor/jquery-1.12.4.min.js"></script>
 
     <script src="/homeassets/js/vendor/bootstrap.min.js"></script>

@@ -99,7 +99,7 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6 sm-padding">
                 <div class="widget-content">
-                    <a href="index-2.html"><img style="width:250px" src="img/trappetti-logowhite.png" alt="brand" /></a>
+                    <a href="/"><img style="width:250px" src="img/trappetti-logowhite.png" alt="brand" /></a>
                     <p>
                         Trappetti Nigeria Limited (TNL) is a technical service and consultancy company offering client
                         specific business solutions.
@@ -110,8 +110,8 @@
                 <div class="widget-content">
                     <h4>Company</h4>
                     <ul class="widget-links">
-                        <li><a href="aboutus.html">About Us</a></li>
-                        <li><a href="contactus.html">Contact us</a></li>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="#">Contact us</a></li>
                     </ul>
                 </div>
             </div>

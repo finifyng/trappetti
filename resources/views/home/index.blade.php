@@ -28,7 +28,7 @@
               <div class="dl-btn-group">d
                 <div class="inner-layer">
                   <a
-                    href="aboutus.html"
+                    href="/about"
                     class="dl-btn"
                     data-animation="fade-in-left"
                     data-delay="3.5s"
@@ -58,7 +58,7 @@
               TNL features a management framework built to thrive in a dynamic business environment towards ensuring continual quality service/product delivery and client satisfaction without compromising excellence.
 
               </p>
-              <a href="aboutus.html" class="default-btn">More About Us</a>
+              <a href="/about" class="default-btn">More About Us</a>
             </div>
           </div>
           <div class="col-lg-6 sm-padding">
@@ -576,8 +576,8 @@
             <div class="widget-content">
               <h4>Company</h4>
               <ul class="widget-links">
-                <li><a href="aboutus.html">About Us</a></li>
-                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="/about">About Us</a></li>
+                <li><a href="/contact">Contact us</a></li>
               </ul>
             </div>
           </div>

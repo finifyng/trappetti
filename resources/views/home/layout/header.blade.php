@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="primary-header-inner">
 		<div class="header-logo">
-			<a href="index-2.html"><img src="/homeassets/img/trappetti-logo.png" alt="Trappettigroup" /></a>
+			<a href="/"><img src="/homeassets/img/trappetti-logo.png" alt="Trappettigroup" /></a>
 		</div>
 		<div class="header-menu-wrap">
 			<ul class="dl-menu">
