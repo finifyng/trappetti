@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Construction & Building HTML Template" />
-    <meta name="author" content="AlexaTheme" />
-    <title>Trappetti Nigeria Limited (TNL)</title>
+    <meta name="description" content="Trappetti Nigeria Limited (TNL) is an integrated engineering, gas commercialization, project development and energy infrastructure company delivering innovative, sustainable and implementation-focused solutions across the energy value chain." />
+    <meta name="author" content="Trappetti Nigeria Limited" />
+    <title>Trappetti Nigeria Limited (TNL) | Engineering the Future of Energy Infrastructure</title>
     <link rel="shortcut icon" type="image/x-icon" href="/homeassets/img/favicon.png" />
 
     <link rel="stylesheet" href="/homeassets/css/fontawesome.min.css" />

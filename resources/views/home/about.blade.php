@@ -15,55 +15,94 @@
       <div class="col-lg-6 sm-padding">
         <div class="about-content wow fadeInLeft">
           <h2>
-            COMMITTED TO STAYING AHEAD OF THE COMPETITON
+            AN INTEGRATED ENERGY INFRASTRUCTURE COMPANY
           </h2>
           <p>
-            Trappetti Nigeria Limited (TNL) is an engineering services and consultancy company, dedicated to offering
-            world-class business solutions tailored to client’s needs and requirements.
+            Trappetti Nigeria Limited (TNL) is an integrated engineering, project development, gas commercialization
+            and energy infrastructure company delivering innovative, sustainable and implementation-focused solutions
+            across the energy value chain.
             </br>
-            Incorporated in 2003, TNL provides excellent professional services in opportunity maturation, project
-            support, asset lifecycle management, procurement, and consultancy amongst other specialist services.
+            Incorporated in 2003, TNL has evolved from a traditional EPC contractor into a full-lifecycle energy
+            partner. Today we combine engineering and EPC delivery with gas commercialization, project development,
+            brownfield development, asset lifecycle management and energy transition solutions.
             </br>
-            TNL is led by a team of experienced engineering and management professionals who have sat on various sides
-            of the business desk.
+            Our approach is implementation-focused: we mature opportunities through concept and feasibility, define
+            them through FEED and detailed engineering, deliver them through EPC, and support them through
+            operations and technical advisory.
             </br>
-            TNL features a management framework designed to thrive in dynamic business environments to deliver
-            excellence and consistent client satisfaction.
+            TNL is led by a team of experienced engineering, commercial and management professionals who have sat on
+            various sides of the business desk, and features a management framework designed to thrive in dynamic
+            business environments.
             </br>
-            Armed with strategic partnerships with specialist service providers, including strong Capabilities in
-            design, procurement and construction TNL is positioned to deliver value to clients in the upstream and
-            midstream sectors.
-
+            Armed with strategic partnerships with specialist service providers including strong capabilities
+            in design, procurement and construction TNL delivers value to clients across the upstream,
+            midstream and downstream sectors.
           </p>
-          {{-- <a href="/about" class="default-btn">More About Us</a> --}}
+          <a href="/services" class="default-btn">Explore Our Services</a>
         </div>
       </div>
       <div class="col-lg-6 sm-padding">
         <ul class="about-promo">
           <li class="about-promo-item wow fadeInUp">
-            <i class="flaticon-factory"></i>
+            <i class="flaticon-industrial-robot"></i>
             <div>
-              <h3>Quality Driven </h3>
+              <h3>EPC &amp; Engineering</h3>
               <p>
-                We offer nothing but quality services to our valued customers.
+                Feasibility, FEED, detailed engineering and full EPC project delivery.
+              </p>
+            </div>
+          </li>
+          <li class="about-promo-item wow fadeInUp" data-wow-delay="200ms">
+            <i class="flaticon-3d-printer"></i>
+            <div>
+              <h3>Gas Commercialization</h3>
+              <p>
+                Market assessment, commercial structuring and gas supply advisory.
               </p>
             </div>
           </li>
           <li class="about-promo-item wow fadeInUp" data-wow-delay="300ms">
-            <i class="flaticon-worker"></i>
+            <i class="flaticon-control-system"></i>
             <div>
-              <h3>Customer Focused</h3>
+              <h3>Project Development</h3>
               <p>
-                Customer Satisfaction is one of our core responsibilities.
+                Opportunity maturation from concept through to final investment decision.
+              </p>
+            </div>
+          </li>
+          <li class="about-promo-item wow fadeInUp" data-wow-delay="400ms">
+            <i class="flaticon-assembly-line"></i>
+            <div>
+              <h3>Brownfield Development</h3>
+              <p>
+                Upgrades, revamps and debottlenecking of existing production assets.
               </p>
             </div>
           </li>
           <li class="about-promo-item wow fadeInUp" data-wow-delay="500ms">
+            <i class="flaticon-conveyor"></i>
+            <div>
+              <h3>Energy Infrastructure</h3>
+              <p>
+                Pipelines, citygates, metering systems and gas infrastructure.
+              </p>
+            </div>
+          </li>
+          <li class="about-promo-item wow fadeInUp" data-wow-delay="600ms">
+            <i class="flaticon-factory"></i>
+            <div>
+              <h3>Asset Lifecycle Management</h3>
+              <p>
+                Integrity, optimisation and operations support across the asset life.
+              </p>
+            </div>
+          </li>
+          <li class="about-promo-item wow fadeInUp" data-wow-delay="700ms">
             <i class="flaticon-gear"></i>
             <div>
-              <h3>Experienced Professionals</h3>
+              <h3>Energy Transition Solutions</h3>
               <p>
-                TNL is led by a team of experienced engineers and professionals.
+                BESS, solar and hybrid systems, efficiency and emissions reduction.
               </p>
             </div>
           </li>

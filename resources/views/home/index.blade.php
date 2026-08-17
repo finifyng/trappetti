@@ -11,21 +11,22 @@
           <div class="dl-caption big">
             <div class="inner-layer">
               <div data-animation="fade-in-left" data-delay="2s">
-                Excellence and Innovation </br>As You Grow
+                Engineering the Future </br>of Energy Infrastructure
               </div>
             </div>
           </div>
           <div class="dl-caption small" style="margin-top:40px;">
             <div class="inner-layer">
               <div data-animation="fade-in-left" data-delay="3s">
-                Trappetti Nigeria Limited (TNL) is an engineering services and consultancy company, dedicated to
-                offering world-class business solutions tailored to client’s needs and requirements
+                An integrated engineering, project development, gas commercialization and energy infrastructure
+                company delivering innovative, sustainable and implementation-focused solutions across the energy
+                value chain
               </div>
             </div>
           </div>
-          <div class="dl-btn-group">d
+          <div class="dl-btn-group">
             <div class="inner-layer">
-              <a href="/about" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">About us <i
+              <a href="/services" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">Our Services <i
                   class="arrow_right"></i></a>
             </div>
           </div>
@@ -42,55 +43,54 @@
       <div class="col-lg-6 sm-padding">
         <div class="about-content wow fadeInLeft">
           <h2>
-            COMMITTED TO STAYING AHEAD OF THE COMPETITON
+            AN INTEGRATED ENERGY INFRASTRUCTURE COMPANY
           </h2>
           <p>
-            Trappetti Nigeria Limited (TNL) is an engineering services and consultancy company, dedicated to offering
-            world-class business solutions tailored to client’s needs and requirements.
+            Trappetti Nigeria Limited (TNL) is an integrated engineering, gas commercialization, project development
+            and energy infrastructure company, delivering innovative, sustainable and implementation-focused
+            solutions across the energy value chain.
             </br>
-            Incorporated in 2003, TNL provides excellent professional services in opportunity maturation, project
-            support, asset lifecycle management, procurement, and consultancy amongst other specialist services.
+            Incorporated in 2003, TNL has grown from a traditional EPC contractor into a full-lifecycle partner
+             combining EPC and engineering, gas commercialization, brownfield development, asset lifecycle
+            management and energy transition solutions under one roof.
             </br>
-            TNL is led by a team of experienced engineering and management professionals who have sat on various sides
-            of the business desk.
+            We take projects from concept and feasibility, through FEED and detailed engineering, to construction,
+            commissioning and long-term operations supported by strategic partnerships with specialist
+            technology and delivery providers.
             </br>
-            TNL features a management framework designed to thrive in dynamic business environments to deliver
-            excellence and consistent client satisfaction.
-            </br>
-            Armed with strategic partnerships with specialist service providers, including strong Capabilities in
-            design, procurement and construction TNL is positioned to deliver value to clients in the upstream and
-            midstream sectors.
-
+            TNL is led by a team of experienced engineering, commercial and management professionals who have sat on
+            various sides of the business desk, delivering value to clients across the upstream, midstream and
+            downstream sectors.
           </p>
-          {{-- <a href="/about" class="default-btn">More About Us</a> --}}
+          <a href="/about" class="default-btn">More About Us</a>
         </div>
       </div>
       <div class="col-lg-6 sm-padding">
         <ul class="about-promo">
           <li class="about-promo-item wow fadeInUp">
-            <i class="flaticon-factory"></i>
+            <i class="flaticon-industrial-robot"></i>
             <div>
-              <h3>Quality Driven </h3>
+              <h3>EPC &amp; Engineering</h3>
               <p>
-                We offer nothing but quality services to our valued customers.
+                Concept and feasibility through FEED, detailed design and full EPC delivery.
               </p>
             </div>
           </li>
           <li class="about-promo-item wow fadeInUp" data-wow-delay="300ms">
-            <i class="flaticon-worker"></i>
+            <i class="flaticon-3d-printer"></i>
             <div>
-              <h3>Customer Focused</h3>
+              <h3>Gas Commercialization</h3>
               <p>
-                Customer Satisfaction is one of our core responsibilities.
+                Turning gas resources into bankable, monetised and deliverable supply.
               </p>
             </div>
           </li>
           <li class="about-promo-item wow fadeInUp" data-wow-delay="500ms">
-            <i class="flaticon-gear"></i>
+            <i class="flaticon-assembly-line"></i>
             <div>
-              <h3>Experienced Professionals</h3>
+              <h3>Asset Lifecycle Management</h3>
               <p>
-                TNL is led by a team of experienced engineers and professionals.
+                Brownfield development, optimisation and operations across the asset life.
               </p>
             </div>
           </li>
@@ -116,42 +116,12 @@
         <div id="service-carousel" class="service-carousel box-shadow owl-carousel">
           <div class="service-item">
             <div class="service-icon">
-              <i class="flaticon-assembly-line"></i>
-            </div>
-            <h3>PRODUCTION SUPPORT</h3>
-            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
-              <li>Production Optimisation</li>
-              <li>Asset Lifecycle O&amp;M</li>
-              <li>Well Intervention</li>
-              <li>Drilling Support Services.</li>
-            </ul>
-            <div class="overlay-icon">
-              <i class="flaticon-assembly-line"></i>
-            </div>
-          </div>
-          <div class="service-item">
-            <div class="service-icon">
-              <i class="flaticon-industrial-robot"></i>
-            </div>
-            <h3>EPC & I</h3>
-            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
-              <li>Facilities </li>
-              <li>Pipeline/Flowline </li>
-              <li>Inspection and Testing Services</li>
-              <li>Asset Debottlenecking</li>
-            </ul>
-            <div class="overlay-icon">
-              <i class="flaticon-industrial-robot"></i>
-            </div>
-          </div>
-          <div class="service-item">
-            <div class="service-icon">
               <i class="flaticon-3d-printer"></i>
             </div>
-            <h3>GAS MONETIZATION</h3>
+            <h3>GAS COMMERCIALIZATION &amp; SUPPLY ADVISORY</h3>
             <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
-              <li>Market Assessment</li>
-              <li>Opportunity Maturation</li>
+              <li>Gas Market &amp; Offtake Assessment</li>
+              <li>Commercial Structuring</li>
               <li>LDZ Planning</li>
               <li>Gas-To-Power</li>
             </ul>
@@ -159,18 +129,91 @@
               <i class="flaticon-3d-printer"></i>
             </div>
           </div>
-
-
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-assembly-line"></i>
+            </div>
+            <h3>ASSET LIFECYCLE MANAGEMENT</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Integrity &amp; Reliability</li>
+              <li>Production Optimisation</li>
+              <li>Asset Debottlenecking</li>
+              <li>Brownfield Upgrades</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-assembly-line"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-control-system"></i>
+            </div>
+            <h3>CONCEPT &amp; FEASIBILITY STUDIES</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Opportunity Maturation</li>
+              <li>Concept Selection</li>
+              <li>Technical &amp; Economic Feasibility</li>
+              <li>Pre-FID Definition</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-control-system"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-gear"></i>
+            </div>
+            <h3>FEED &amp; DETAILED ENGINEERING</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Front End Engineering Design</li>
+              <li>Multi-discipline Detailed Design</li>
+              <li>Process &amp; Facilities Engineering</li>
+              <li>Engineering Assurance</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-gear"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-industrial-robot"></i>
+            </div>
+            <h3>EPC PROJECTS</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Engineering, Procurement &amp; Construction</li>
+              <li>Facilities &amp; Process Plants</li>
+              <li>Installation Management</li>
+              <li>Commissioning &amp; Start-up</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-industrial-robot"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-factory"></i>
+            </div>
+            <h3>PRODUCED WATER TREATMENT</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Treatment Scheme Selection</li>
+              <li>Water Handling &amp; Separation</li>
+              <li>Disposal &amp; Re-injection</li>
+              <li>Environmental Compliance</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-factory"></i>
+            </div>
+          </div>
           <div class="service-item">
             <div class="service-icon">
               <i class="flaticon-conveyor"></i>
             </div>
-            <h3>SMART ENERGY SOLUTIONS</h3>
+            <h3>PIPELINES &amp; GAS INFRASTRUCTURE</h3>
             <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
-              <li>Energy Saving solutions</li>
-              <li>Solar Renewable</li>
-              <li>Carbon Credit Assessment</li>
-              <li>Energy Audits</li>
+              <li>Pipeline &amp; Flowline Systems</li>
+              <li>Gas Gathering &amp; Transmission</li>
+              <li>Citygates &amp; Distribution</li>
+              <li>CNG Stations</li>
             </ul>
             <div class="overlay-icon">
               <i class="flaticon-conveyor"></i>
@@ -180,19 +223,53 @@
             <div class="service-icon">
               <i class="flaticon-control-system"></i>
             </div>
-            <h3>ADVISORY</h3>
+            <h3>METERING &amp; REGULATION SYSTEMS</h3>
             <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
-              <li>Consultancy</li>
-              <li>Policy and Regulatory Advisory</li>
-              <li>Specialist Interventions</li>
+              <li>Custody Transfer Metering</li>
+              <li>Pressure Reduction &amp; Regulation</li>
+              <li>Metering Skid Design &amp; Build</li>
+              <li>Measurement Assurance</li>
             </ul>
-
-
             <div class="overlay-icon">
               <i class="flaticon-control-system"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-conveyor"></i>
+            </div>
+            <h3>ENERGY TRANSITION &amp; BESS</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Battery Energy Storage Systems</li>
+              <li>Solar &amp; Hybrid Power</li>
+              <li>Energy Efficiency &amp; Audits</li>
+              <li>Carbon &amp; Emissions Assessment</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-conveyor"></i>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="service-icon">
+              <i class="flaticon-worker"></i>
+            </div>
+            <h3>OPERATIONS &amp; TECHNICAL ADVISORY</h3>
+            <ul style="list-style-type: none; padding-left: 20px; color: #518681; font-style:bold;">
+              <li>Operations &amp; Maintenance Support</li>
+              <li>Policy &amp; Regulatory Advisory</li>
+              <li>Owner's Engineer Services</li>
+              <li>Specialist Interventions</li>
+            </ul>
+            <div class="overlay-icon">
+              <i class="flaticon-worker"></i>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center" style="margin-top:40px;">
+        <a href="/services" class="default-btn">View All Services</a>
       </div>
     </div>
   </div>
@@ -301,7 +378,7 @@
           </h3>
         </div>
       </div> --}}
-      
+
     </div>
   </div>
 </section>
@@ -399,9 +476,9 @@
           {{-- <span>Explore The Features</span> --}}
           <h2>COMMUNITY, HEALTH, SAFETY, ENVIRONMENT & SECURITY (CASHES) POLICIES</h2>
           <p>
-            Strong commitment to sound HSEQ (Health Safety Environment and Quality) practices in all aspects of our business. 
+            Strong commitment to sound HSEQ (Health Safety Environment and Quality) practices in all aspects of our business.
             </br>
-            Applicable to all our partners-employees, client contractors, and visitors. 
+            Applicable to all our partners-employees, client contractors, and visitors.
             </br>
             Hazard and Risk Management Mindset (We are paranoid)
             </br>

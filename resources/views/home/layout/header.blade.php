@@ -10,9 +10,19 @@
 		</div>
 		<div class="header-menu-wrap">
 			<ul class="dl-menu">
-				<li ><a href="/" style="font-size:16px!important;">Home</a></li>
-				<li><a href="/about" style="font-size:16px!important;">About us</a></li>
-				<li><a href="/contact" style="font-size:16px!important;">Contact Us</a></li>
+				<li><a href="/">Home</a></li>
+				<li>
+					<a href="/about">About</a>
+					<ul>
+						<li><a href="/about">Who We Are</a></li>
+						<li><a href="/partnerships">Strategic Partnerships</a></li>
+						<li><a href="/sustainability">Sustainability (ESG)</a></li>
+						<li><a href="/downloads">Downloads</a></li>
+					</ul>
+				</li>
+				<li><a href="/services">Services</a></li>
+				<li><a href="/industries">Industries</a></li>
+				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</div>
 		<div class="header-right">
